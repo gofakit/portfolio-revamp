@@ -16,7 +16,7 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="All posts"
+        title="Portfolio of Cheuk Kit TANG"
         keywords={[`blog`, `gatsby`, `javascript`, `react`]}
       />
       {data.site.siteMetadata.description && (
