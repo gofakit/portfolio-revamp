@@ -17,7 +17,7 @@ const BlogIndex = ({ data }, location) => {
     <Layout title={siteTitle}>
       <SEO
         title="Portfolio of Cheuk Kit TANG"
-        keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+        keywords={[`HKUST final year student`, `React developer`, `software engineer`]}
       />
       {data.site.siteMetadata.description && (
         <header className="page-head">
