@@ -18,37 +18,45 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
+            Not your typical programmer
           </h2>
-          <figure className="kg-card kg-image-card kg-width-full">
+          <figure className="kg-card kg-image-card">
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            <figcaption>Large imagery is at the heart of this theme</figcaption>
+            <figcaption>A programmer who got a life :D</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
+          <h3 id="dynamic-styles">Hello there. Call me Kit.</h3>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
+            I am a final year student in HKUST. My major is Computer Engineering (CPEG). And I am also doing a business minor.
           </p>
           <p>
-            Both post and page templates are light and minimal, with all the
+            Experienced in full-stack web development, however, I am also eager to explore beyond my strengths.
+            I am open for various opportunities, especially technical consultancy, and even data analyst.
+            {/* Both post and page templates are light and minimal, with all the
             focus on the content while the design of the theme gets out of the
             way. Beneath the hood, London enjoys the full power of the{" "}
             <a href="https://docs.ghost.org/api/handlebars-themes/">
               Ghost Handlebars Theme API
             </a>{" "}
-            to provide limitless customisation options and dynamic styles.
+            to provide limitless customisation options and dynamic styles. */}
           </p>
           <p>
-            Don't forget to check out the{" "}
+            This is where I share my previous work. Occasionally, I may also upload some blogs of technology, business insights, or even my daily life.
+            {/* Don't forget to check out the{" "}
             <a href="https://docs.ghost.org/integrations/">
               Ghost Integrations Directory
             </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
+            for more ways to integrate Ghost with your favourite services. */}
           </p>
+          <a 
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://cktangad.student.ust.hk/resume.pdf"
+          >
+          <button>My CV</button>
+          </a>
         </div>
       </article>
     </Layout>
@@ -63,7 +71,7 @@ const indexQuery = graphql`
       }
     }
     benchAccounting: file(
-      relativePath: { eq: "bench-accounting-49909-unsplash.jpg" }
+      relativePath: { eq: "me.jpg" }
     ) {
       childImageSharp {
         fluid(maxWidth: 1360) {
