@@ -1,8 +1,9 @@
 ---
 title: Internship - MySilkWay
-date: "2020-09-10"
+date: "2019-09-01"
 thumbnail: ./mysilkway-logo.png
 hideThumbnail: true
+active: true
 description: MySilkWay is an E-Commerce platform. This project is a Q&A portal for product pages. I've designed a frontend for customers to leave questions on a product, and an admin portal to maintain the questions.
 ---
 
