@@ -39,6 +39,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.5.1",
+    "gh-pages": "^3.2.3",
     "husky": "^2.2.0",
     "postcss-color-function": "^4.1.0",
     "postcss-custom-properties": "^8.0.10",
@@ -63,6 +64,8 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "predeploy": "gatsby build",
+    "deploy": "gh-pages -d build",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
