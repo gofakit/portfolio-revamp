@@ -65,7 +65,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "predeploy": "gatsby build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d public",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
