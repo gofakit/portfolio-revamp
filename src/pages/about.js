@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, StaticQuery, withPrefix } from "gatsby"
+import { graphql, StaticQuery } from "gatsby"
 import Img from "gatsby-image"
 
 import Layout from "../components/layout"
@@ -57,7 +57,7 @@ const AboutPage = ({ data }, location) => {
           <a 
             target="_blank"
             rel="noopener noreferrer"
-            href={'resume.pdf'}
+            href={'/resume.pdf'}
           >
           <button>My CV (Jan 2022)</button>
           </a>
