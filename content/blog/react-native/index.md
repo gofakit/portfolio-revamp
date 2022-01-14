@@ -1,7 +1,7 @@
 ---
 title: React Native Mobile App
 date: "2021-01-20"
-thumbnail: ./r-logo.png
+thumbnail: ./rocketgo-logo.png
 hideThumbnail: true
 active: true
 description: In January 2021, ReUbird has launched its first mobile application project for fleet management. The app uses React Native together with Expo as the development toolkit.

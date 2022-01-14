@@ -53,7 +53,7 @@ const AboutPage = ({ data }, location) => {
           <a 
             target="_blank"
             rel="noopener noreferrer"
-            href="https://cktangad.student.ust.hk/resume.pdf"
+            href="/resume.pdf"
           >
           <button>My CV</button>
           </a>
