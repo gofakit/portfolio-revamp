@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Cheuk Kit TANG]]></title><description><![CDATA[This is my software engineering portfolio, with my projects, internships, and few of my favourite things.]]></description><link>https://https://cktangad.student.ust.hk</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 14 Jan 2022 14:35:26 GMT</lastBuildDate><item><title><![CDATA[Sampson Store]]></title><description><![CDATA[Check out their shop (Warning: NSFW) Check out their Shopify page! (Warning: NSFW)]]></description><link>https://https://cktangad.student.ust.hk/sampson/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/sampson/</guid><pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Cheuk Kit TANG]]></title><description><![CDATA[This is my software engineering portfolio, with my projects, internships, and few of my favourite things.]]></description><link>https://ckt22.github.io/portfolio-revamp</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 14 Jan 2022 14:37:16 GMT</lastBuildDate><item><title><![CDATA[Sampson Store]]></title><description><![CDATA[Check out their shop (Warning: NSFW) Check out their Shopify page! (Warning: NSFW)]]></description><link>https://ckt22.github.io/portfolio-revamp/sampson/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/sampson/</guid><pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.sampsonstore.com/neovision/condom/home/index.is?locale=enus&quot; target=&quot;_blank&quot;&gt;&lt;button&gt;Check out their shop (Warning: NSFW)&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Well....Every industry needs programmers! This has been one of the most enjoable part time experience I have ever had back in 2021. Not only did I gained more insights on the sexual well-being retail market, but I also got the chance to refine my Python backend skills, as well as my MySQL knowledge.&lt;/p&gt;
 &lt;h2&gt;Shopify Connector&lt;/h2&gt;
@@ -98,7 +98,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[FYP - Coach.ai]]></title><description><![CDATA[The 3 objectives of building this app - to record users’ habits with the least effort, provide smart recommendations, and provide real time…]]></description><link>https://https://cktangad.student.ust.hk/coach-ai/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/coach-ai/</guid><pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[FYP - Coach.ai]]></title><description><![CDATA[The 3 objectives of building this app - to record users’ habits with the least effort, provide smart recommendations, and provide real time…]]></description><link>https://ckt22.github.io/portfolio-revamp/coach-ai/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/coach-ai/</guid><pubDate>Sat, 15 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
 &lt;p&gt;With a team of developers using different mobile OS, when we were asked to develop a mobile app, we immediately picked React Native as our core language, together with Expo as the package manager. Thanks to my MERN background, cultivated by ReUbird, I picked up React Native quickly and made significant contributions to the frontend. As for database, we are using Firebase by Google.
 &lt;p&gt;The 3 objectives of building this app - to record users’ habits with the least effort, provide smart recommendations, and provide real time feedback for users when they exercise,&lt;/p&gt;
 &lt;/p&gt;
@@ -246,7 +246,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[React Native Mobile App]]></title><description><![CDATA[App Description]]></description><link>https://https://cktangad.student.ust.hk/react-native/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/react-native/</guid><pubDate>Wed, 20 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[React Native Mobile App]]></title><description><![CDATA[App Description]]></description><link>https://ckt22.github.io/portfolio-revamp/react-native/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/react-native/</guid><pubDate>Wed, 20 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://appadvice.com/app/rocketgo/1545319885&quot; target=&quot;_blank&quot;&gt;&lt;button&gt;App Description&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Note: Live demo is not available due to unlaunch of the product.&lt;/p&gt;
 &lt;h2&gt;Cross-Platform File Management&lt;/h2&gt;
@@ -385,7 +385,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Internship - ReUbird]]></title><description><![CDATA[ReUbird Official Page   Download the PDF version of ReUbird Official Site!]]></description><link>https://https://cktangad.student.ust.hk/reubird/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/reubird/</guid><pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Internship - ReUbird]]></title><description><![CDATA[ReUbird Official Page   Download the PDF version of ReUbird Official Site!]]></description><link>https://ckt22.github.io/portfolio-revamp/reubird/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/reubird/</guid><pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.reubird.hk/&quot; target=&quot;_blank&quot;&gt;&lt;button&gt;ReUbird Official Page&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I have been using the MERN development stack across all portals of ReUbird. I&apos;ve used ReactJS as the front end backed up by an Express server. As for database, we are using MongoDB. The portals are deployed on AWS. I will cover some of my works here.&lt;/p&gt;
 &lt;h2&gt;Membership Page - Reusable Questionnaire&lt;/h2&gt;
@@ -497,7 +497,7 @@
 &lt;h2&gt;Mircoservice - PDF Generator&lt;/h2&gt;
 &lt;p&gt;I was pleased to be given the chance to try Docker and ECS from AWS. One of the microservices I worked on and would like to present is the PDF generator. We wrote a very simple backend in NodeJS with the Puppeteer library to capture the content of the given URL. We then dockerized the program and deployed it to AWS ECS. Unfortunately, as it is for internal use, all external requests are banned. Sorry :( &lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://pdf.reubird.hk/pdf?url=https://reubird.hk&quot; target=&quot;_blank&quot;&gt;&lt;button&gt;Download the PDF version of ReUbird Official Site!&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Internship - MySilkWay]]></title><description><![CDATA[See Live This Q&A box appears on all SKU pages. Logged in customers may ask a question about the product. Customers can also view published…]]></description><link>https://https://cktangad.student.ust.hk/mysilkway/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/mysilkway/</guid><pubDate>Sun, 01 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Internship - MySilkWay]]></title><description><![CDATA[See Live This Q&A box appears on all SKU pages. Logged in customers may ask a question about the product. Customers can also view published…]]></description><link>https://ckt22.github.io/portfolio-revamp/mysilkway/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/mysilkway/</guid><pubDate>Sun, 01 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.mysilkway.com/&quot; target=&quot;_blank&quot;&gt;&lt;button&gt;See Live&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This Q&amp;#x26;A box appears on all SKU pages. Logged in customers may ask a question about the product. Customers can also view published questions and rate them.&lt;/p&gt;
 &lt;p&gt;
@@ -606,7 +606,7 @@
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;p&gt;Front End using HTML5, CSS3, JavaScript, while Back End using GoLang. We also used PostgresSQL for database and Docker for deploying the website.&lt;/p&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc Denis I used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://https://cktangad.student.ust.hk/darkness/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Darkness]]></title><description><![CDATA[A wallpaper series using shapes and light by Jean-Marc Denis I used a poly reduction on the mesh as a proxy to be able to create my studio…]]></description><link>https://ckt22.github.io/portfolio-revamp/darkness/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/darkness/</guid><pubDate>Wed, 08 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;A wallpaper series using shapes and light by &lt;a href=&quot;http://jmd.im/black&quot;&gt;Jean-Marc Denis&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.&lt;/p&gt;
 &lt;p&gt;This is the final render.&lt;/p&gt;
 &lt;div class=&quot;kg-card kg-image-card kg-width-full&quot;&gt;
@@ -758,7 +758,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Don't stop]]></title><description><![CDATA[Picasso had his pink period and his blue period. I am in my blonde period right now. When I first started wearing pink, it wasn’t nothing I…]]></description><link>https://https://cktangad.student.ust.hk/dont-stop/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/dont-stop/</guid><pubDate>Tue, 07 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Picasso had his pink period and his blue period. I am in my blonde period right now.&lt;/h3&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Don't stop]]></title><description><![CDATA[Picasso had his pink period and his blue period. I am in my blonde period right now. When I first started wearing pink, it wasn’t nothing I…]]></description><link>https://ckt22.github.io/portfolio-revamp/dont-stop/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/dont-stop/</guid><pubDate>Tue, 07 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Picasso had his pink period and his blue period. I am in my blonde period right now.&lt;/h3&gt;
 &lt;p&gt;When I first started wearing pink, it wasn’t nothing I planned on doing or strategized. But people showed me so much love for the pink mink I wore, I had to go out to Pantone and create my own color, which is called Killa Pink.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
@@ -855,7 +855,7 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[It's all blue]]></title><link>https://https://cktangad.student.ust.hk/its-all-blue/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/its-all-blue/</guid><pubDate>Mon, 06 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[It's all blue]]></title><link>https://ckt22.github.io/portfolio-revamp/its-all-blue/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/its-all-blue/</guid><pubDate>Mon, 06 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/portfolio-revamp/static/9bd155b91c231debb6f82d7b9852fa76/cbe2c/cody-davis-253925-unsplash.jpg&quot;
@@ -950,7 +950,7 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clean lines]]></title><link>https://https://cktangad.student.ust.hk/clean-lines/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/clean-lines/</guid><pubDate>Sun, 05 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clean lines]]></title><link>https://ckt22.github.io/portfolio-revamp/clean-lines/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/clean-lines/</guid><pubDate>Sun, 05 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/portfolio-revamp/static/6346e1b3959c2359992fc4a3055afae7/cbe2c/clem-onojeghuo-207792-unsplash.jpg&quot;
@@ -1141,7 +1141,7 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[All spikes]]></title><link>https://https://cktangad.student.ust.hk/all-spikes/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/all-spikes/</guid><pubDate>Sat, 04 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[All spikes]]></title><link>https://ckt22.github.io/portfolio-revamp/all-spikes/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/all-spikes/</guid><pubDate>Sat, 04 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/portfolio-revamp/static/c7484ec51df371d20ff0b83d92feeb8a/cbe2c/charles-deluvio-695757-unsplash.jpg&quot;
@@ -1332,7 +1332,7 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Green]]></title><link>https://https://cktangad.student.ust.hk/green/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/green/</guid><pubDate>Fri, 03 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Green]]></title><link>https://ckt22.github.io/portfolio-revamp/green/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/green/</guid><pubDate>Fri, 03 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/portfolio-revamp/static/dd82c627c6397daa9dacf5675967134b/cbe2c/chuttersnap-564286-unsplash.jpg&quot;
@@ -1523,7 +1523,7 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Get fruity]]></title><link>https://https://cktangad.student.ust.hk/get-fruity/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/get-fruity/</guid><pubDate>Thu, 02 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Get fruity]]></title><link>https://ckt22.github.io/portfolio-revamp/get-fruity/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/get-fruity/</guid><pubDate>Thu, 02 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/portfolio-revamp/static/7cba2b8e617762f18b27ff0f2581601b/cbe2c/mike-dorner-173503-unsplash.jpg&quot;
@@ -1620,7 +1620,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[The fur series]]></title><link>https://https://cktangad.student.ust.hk/fur/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/fur/</guid><pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[The fur series]]></title><link>https://ckt22.github.io/portfolio-revamp/fur/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/fur/</guid><pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/portfolio-revamp/static/a1ebbea943f183782485fb7212e283bb/cbe2c/charles-deluvio-540415-unsplash.jpg&quot;
@@ -1812,7 +1812,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://https://cktangad.student.ust.hk/hi-folks/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/hi-folks/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
+Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://ckt22.github.io/portfolio-revamp/hi-folks/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/hi-folks/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
 Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
@@ -1905,12 +1905,12 @@ to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
 for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://https://cktangad.student.ust.hk/my-second-post/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
+chicken eggs, though the…]]></description><link>https://ckt22.github.io/portfolio-revamp/my-second-post/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
 &lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
 chicken eggs, though the taste and texture will be somewhat different, and the
 egg yolk will be less rich.”?
 (&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://https://cktangad.student.ust.hk/hello-world/</link><guid isPermaLink="false">https://https://cktangad.student.ust.hk/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://ckt22.github.io/portfolio-revamp/hello-world/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
 &lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
