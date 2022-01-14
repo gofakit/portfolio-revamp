@@ -1,5 +1,5 @@
 import React from "react"
-import { graphql, StaticQuery } from "gatsby"
+import { graphql, StaticQuery, withPrefix } from "gatsby"
 import Img from "gatsby-image"
 
 import Layout from "../components/layout"
@@ -25,15 +25,19 @@ const AboutPage = ({ data }, location) => {
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            <figcaption>A programmer who got a life :D</figcaption>
+            <figcaption>Finally graduated and I'm feeling so guuddddddd:D</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Hello there. Call me Kit.</h3>
+          <h3 id="dynamic-styles">Name's Kit.</h3>
           <p>
-            I am a final year student in HKUST. My major is Computer Engineering (CPEG). And I am also doing a business minor.
+            I am a fresh graduate from HKUST, class of 2021. My major is Computer Engineering (CPEG), and I am also doing a business minor.
+          </p>
+          <p>
+            I am a big fan of coffee and fresh air. I like to hike and sometimes going to the gym. And I always welcome casual hangouts.
           </p>
           <p>
             Experienced in full-stack web development, however, I am also eager to explore beyond my strengths.
-            I am open for various opportunities, especially technical consultancy, and even data analyst.
+            I am open for various opportunities, especially blockchain and FinTech.
+            I am industry focused, which makes me motivated in trying everything in the right environment.
             {/* Both post and page templates are light and minimal, with all the
             focus on the content while the design of the theme gets out of the
             way. Beneath the hood, London enjoys the full power of the{" "}
@@ -53,9 +57,9 @@ const AboutPage = ({ data }, location) => {
           <a 
             target="_blank"
             rel="noopener noreferrer"
-            href="/resume.pdf"
+            href={'resume.pdf'}
           >
-          <button>My CV</button>
+          <button>My CV (Jan 2022)</button>
           </a>
         </div>
       </article>
