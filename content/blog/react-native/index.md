@@ -5,6 +5,7 @@ thumbnail: ./rocketgo-logo.jpeg
 hideThumbnail: true
 active: true
 description: In January 2021, ReUbird has launched its first mobile application project for fleet management, dedicated to its catering merchants who rely on delivery services intensively. The app uses React Native together with Expo as the development toolkit.
+description2: "#react-native #location-services #file-systems"
 ---
 
 <div class="kg-card kg-image-card kg-width-wide">

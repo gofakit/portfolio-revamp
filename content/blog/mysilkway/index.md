@@ -5,6 +5,7 @@ thumbnail: ./mysilkway-logo.png
 hideThumbnail: true
 active: true
 description: MySilkWay is an E-Commerce platform. This project is a Q&A portal for product pages. I've designed a frontend for customers to leave questions on a product, and an admin portal to maintain the questions.
+description2: "#golang #postgres-sql #ajax"
 ---
 
 <div class="kg-card kg-image-card kg-width-wide">

@@ -1,10 +1,11 @@
 ---
 title: Sampson Store
 date: "2021-05-30"
-thumbnail: ./sampson-logo.jpeg
+thumbnail: ./sampson-logo.png
 hideThumbnail: true
 active: true
-description: Make Love Great Again
+description: "Make Love Great Again"
+description2: "#python #mysql"
 ---
 
 <div class="kg-card kg-image-card kg-width-wide">

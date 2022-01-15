@@ -5,6 +5,7 @@ thumbnail: ./coach-ai-logo.png
 hideThumbnail: true
 active: true
 description: TADA~ Presenting you my final year project!
+description2: "#react-native #firebase #nodejs"
 ---
 
 <div class="kg-card kg-image-card kg-width-wide">

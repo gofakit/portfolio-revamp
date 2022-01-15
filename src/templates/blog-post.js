@@ -27,6 +27,10 @@ class BlogPostTemplate extends React.Component {
             <p class="post-content-excerpt">{post.frontmatter.description}</p>
           )}
 
+          {post.frontmatter.description2 && (
+            <p class="post-content-excerpt">{post.frontmatter.description2}</p>
+          )}
+
           {post.frontmatter.thumbnail && !post.frontmatter.hideThumbnail && (
             <div className="post-content-image">
               <Img
@@ -72,6 +76,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        description2
         hideThumbnail
         thumbnail {
           childImageSharp {
