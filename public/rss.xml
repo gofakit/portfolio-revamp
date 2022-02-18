@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Cheuk Kit TANG]]></title><description><![CDATA[This is my software engineering portfolio, with my projects, internships, and few of my favourite things.]]></description><link>https://ckt22.github.io/portfolio-revamp</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 15 Jan 2022 08:36:03 GMT</lastBuildDate><item><title><![CDATA[Let there be change]]></title><description><![CDATA[Learn more about Accenture Hong Kong Try chatting with Cathay Pacific on Whatsapp!]]></description><link>https://ckt22.github.io/portfolio-revamp/accenture/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/accenture/</guid><pubDate>Sun, 30 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Cheuk Kit TANG]]></title><description><![CDATA[This is my software engineering portfolio, with my projects, internships, and few of my favourite things.]]></description><link>https://ckt22.github.io/portfolio-revamp</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 18 Feb 2022 12:58:10 GMT</lastBuildDate><item><title><![CDATA[Let there be change]]></title><description><![CDATA[Learn more about Accenture Hong Kong Try chatting with Cathay Pacific on Whatsapp!]]></description><link>https://ckt22.github.io/portfolio-revamp/accenture/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/accenture/</guid><pubDate>Sun, 30 Jan 2022 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;kg-card kg-image-card kg-width-wide&quot;&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.accenture.com/hk-en&quot; target=&quot;_blank&quot;&gt;&lt;button&gt;Learn more about Accenture Hong Kong&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Accenture is one of the top consulting firms doing especially well in IT consulting. I am honored to be part of the Accenture family, delivering great work to our prestigious clients. During my working period, I have worked for a local airline client to deliver an omni-channel messaging platform, integrated with its in-house chatbot solution. We were using NodeJS to consturct the backend of the project, while we also have an internal management portal developed in Angular, where we visualize chat statistics to our users. &lt;/p&gt;
 &lt;h2&gt;From Bot to Agent chats&lt;/h2&gt;
@@ -7,7 +7,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/3ee5cd0119c595866e1f0592512baf91/64f98/vera.png&quot;
+    href=&quot;/static/3ee5cd0119c595866e1f0592512baf91/64f98/vera.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -23,26 +23,26 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/3ee5cd0119c595866e1f0592512baf91/51a8e/vera.webp 340w,
-/portfolio-revamp/static/3ee5cd0119c595866e1f0592512baf91/713b7/vera.webp 680w,
-/portfolio-revamp/static/3ee5cd0119c595866e1f0592512baf91/f414a/vera.webp 1170w&quot;
+          srcset=&quot;/static/3ee5cd0119c595866e1f0592512baf91/51a8e/vera.webp 340w,
+/static/3ee5cd0119c595866e1f0592512baf91/713b7/vera.webp 680w,
+/static/3ee5cd0119c595866e1f0592512baf91/f414a/vera.webp 1170w&quot;
           sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/3ee5cd0119c595866e1f0592512baf91/ad208/vera.png 340w,
-/portfolio-revamp/static/3ee5cd0119c595866e1f0592512baf91/a5a26/vera.png 680w,
-/portfolio-revamp/static/3ee5cd0119c595866e1f0592512baf91/64f98/vera.png 1170w&quot;
+          srcset=&quot;/static/3ee5cd0119c595866e1f0592512baf91/ad208/vera.png 340w,
+/static/3ee5cd0119c595866e1f0592512baf91/a5a26/vera.png 680w,
+/static/3ee5cd0119c595866e1f0592512baf91/64f98/vera.png 1170w&quot;
           sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/3ee5cd0119c595866e1f0592512baf91/64f98/vera.png&quot;
+          src=&quot;/static/3ee5cd0119c595866e1f0592512baf91/64f98/vera.png&quot;
           alt=&quot;Let there be change&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/3ee5cd0119c595866e1f0592512baf91/64f98/vera.png&quot;
+          src=&quot;/static/3ee5cd0119c595866e1f0592512baf91/64f98/vera.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -55,7 +55,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/044ef66f3fb3876948c5dc83c563d2b9/d5d77/redis-azure.png&quot;
+    href=&quot;/static/044ef66f3fb3876948c5dc83c563d2b9/d5d77/redis-azure.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -71,28 +71,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/044ef66f3fb3876948c5dc83c563d2b9/51a8e/redis-azure.webp 340w,
-/portfolio-revamp/static/044ef66f3fb3876948c5dc83c563d2b9/713b7/redis-azure.webp 680w,
-/portfolio-revamp/static/044ef66f3fb3876948c5dc83c563d2b9/54376/redis-azure.webp 1360w,
-/portfolio-revamp/static/044ef66f3fb3876948c5dc83c563d2b9/bb1cb/redis-azure.webp 1462w&quot;
+          srcset=&quot;/static/044ef66f3fb3876948c5dc83c563d2b9/51a8e/redis-azure.webp 340w,
+/static/044ef66f3fb3876948c5dc83c563d2b9/713b7/redis-azure.webp 680w,
+/static/044ef66f3fb3876948c5dc83c563d2b9/54376/redis-azure.webp 1360w,
+/static/044ef66f3fb3876948c5dc83c563d2b9/bb1cb/redis-azure.webp 1462w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/044ef66f3fb3876948c5dc83c563d2b9/ad208/redis-azure.png 340w,
-/portfolio-revamp/static/044ef66f3fb3876948c5dc83c563d2b9/a5a26/redis-azure.png 680w,
-/portfolio-revamp/static/044ef66f3fb3876948c5dc83c563d2b9/60356/redis-azure.png 1360w,
-/portfolio-revamp/static/044ef66f3fb3876948c5dc83c563d2b9/d5d77/redis-azure.png 1462w&quot;
+          srcset=&quot;/static/044ef66f3fb3876948c5dc83c563d2b9/ad208/redis-azure.png 340w,
+/static/044ef66f3fb3876948c5dc83c563d2b9/a5a26/redis-azure.png 680w,
+/static/044ef66f3fb3876948c5dc83c563d2b9/60356/redis-azure.png 1360w,
+/static/044ef66f3fb3876948c5dc83c563d2b9/d5d77/redis-azure.png 1462w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/044ef66f3fb3876948c5dc83c563d2b9/60356/redis-azure.png&quot;
+          src=&quot;/static/044ef66f3fb3876948c5dc83c563d2b9/60356/redis-azure.png&quot;
           alt=&quot;Let there be change&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/044ef66f3fb3876948c5dc83c563d2b9/60356/redis-azure.png&quot;
+          src=&quot;/static/044ef66f3fb3876948c5dc83c563d2b9/60356/redis-azure.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -109,7 +109,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/b9ad9a59bfa73b00ce1e4cd91eff365f/285f6/shopify-api.jpg&quot;
+    href=&quot;/static/b9ad9a59bfa73b00ce1e4cd91eff365f/285f6/shopify-api.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -125,26 +125,26 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/b9ad9a59bfa73b00ce1e4cd91eff365f/51a8e/shopify-api.webp 340w,
-/portfolio-revamp/static/b9ad9a59bfa73b00ce1e4cd91eff365f/713b7/shopify-api.webp 680w,
-/portfolio-revamp/static/b9ad9a59bfa73b00ce1e4cd91eff365f/fbc7f/shopify-api.webp 827w&quot;
+          srcset=&quot;/static/b9ad9a59bfa73b00ce1e4cd91eff365f/51a8e/shopify-api.webp 340w,
+/static/b9ad9a59bfa73b00ce1e4cd91eff365f/713b7/shopify-api.webp 680w,
+/static/b9ad9a59bfa73b00ce1e4cd91eff365f/fbc7f/shopify-api.webp 827w&quot;
           sizes=&quot;(max-width: 827px) 100vw, 827px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/b9ad9a59bfa73b00ce1e4cd91eff365f/2e524/shopify-api.jpg 340w,
-/portfolio-revamp/static/b9ad9a59bfa73b00ce1e4cd91eff365f/d330d/shopify-api.jpg 680w,
-/portfolio-revamp/static/b9ad9a59bfa73b00ce1e4cd91eff365f/285f6/shopify-api.jpg 827w&quot;
+          srcset=&quot;/static/b9ad9a59bfa73b00ce1e4cd91eff365f/2e524/shopify-api.jpg 340w,
+/static/b9ad9a59bfa73b00ce1e4cd91eff365f/d330d/shopify-api.jpg 680w,
+/static/b9ad9a59bfa73b00ce1e4cd91eff365f/285f6/shopify-api.jpg 827w&quot;
           sizes=&quot;(max-width: 827px) 100vw, 827px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/b9ad9a59bfa73b00ce1e4cd91eff365f/285f6/shopify-api.jpg&quot;
+          src=&quot;/static/b9ad9a59bfa73b00ce1e4cd91eff365f/285f6/shopify-api.jpg&quot;
           alt=&quot;Sampson Store&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/b9ad9a59bfa73b00ce1e4cd91eff365f/285f6/shopify-api.jpg&quot;
+          src=&quot;/static/b9ad9a59bfa73b00ce1e4cd91eff365f/285f6/shopify-api.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -157,7 +157,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/0197e1e2433780763a8f1b390c7a11e7/3729f/shopee-open-api.png&quot;
+    href=&quot;/static/0197e1e2433780763a8f1b390c7a11e7/3729f/shopee-open-api.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -173,26 +173,26 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/0197e1e2433780763a8f1b390c7a11e7/51a8e/shopee-open-api.webp 340w,
-/portfolio-revamp/static/0197e1e2433780763a8f1b390c7a11e7/713b7/shopee-open-api.webp 680w,
-/portfolio-revamp/static/0197e1e2433780763a8f1b390c7a11e7/6eb2f/shopee-open-api.webp 1135w&quot;
+          srcset=&quot;/static/0197e1e2433780763a8f1b390c7a11e7/51a8e/shopee-open-api.webp 340w,
+/static/0197e1e2433780763a8f1b390c7a11e7/713b7/shopee-open-api.webp 680w,
+/static/0197e1e2433780763a8f1b390c7a11e7/6eb2f/shopee-open-api.webp 1135w&quot;
           sizes=&quot;(max-width: 1135px) 100vw, 1135px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/0197e1e2433780763a8f1b390c7a11e7/ad208/shopee-open-api.png 340w,
-/portfolio-revamp/static/0197e1e2433780763a8f1b390c7a11e7/a5a26/shopee-open-api.png 680w,
-/portfolio-revamp/static/0197e1e2433780763a8f1b390c7a11e7/3729f/shopee-open-api.png 1135w&quot;
+          srcset=&quot;/static/0197e1e2433780763a8f1b390c7a11e7/ad208/shopee-open-api.png 340w,
+/static/0197e1e2433780763a8f1b390c7a11e7/a5a26/shopee-open-api.png 680w,
+/static/0197e1e2433780763a8f1b390c7a11e7/3729f/shopee-open-api.png 1135w&quot;
           sizes=&quot;(max-width: 1135px) 100vw, 1135px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/0197e1e2433780763a8f1b390c7a11e7/3729f/shopee-open-api.png&quot;
+          src=&quot;/static/0197e1e2433780763a8f1b390c7a11e7/3729f/shopee-open-api.png&quot;
           alt=&quot;Sampson Store&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/0197e1e2433780763a8f1b390c7a11e7/3729f/shopee-open-api.png&quot;
+          src=&quot;/static/0197e1e2433780763a8f1b390c7a11e7/3729f/shopee-open-api.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -213,7 +213,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/979e78b579040cc14e8bbcab31aaf178/ef14d/data-vis.png&quot;
+    href=&quot;/static/979e78b579040cc14e8bbcab31aaf178/ef14d/data-vis.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -229,26 +229,26 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/979e78b579040cc14e8bbcab31aaf178/51a8e/data-vis.webp 340w,
-/portfolio-revamp/static/979e78b579040cc14e8bbcab31aaf178/713b7/data-vis.webp 680w,
-/portfolio-revamp/static/979e78b579040cc14e8bbcab31aaf178/e28c4/data-vis.webp 750w&quot;
+          srcset=&quot;/static/979e78b579040cc14e8bbcab31aaf178/51a8e/data-vis.webp 340w,
+/static/979e78b579040cc14e8bbcab31aaf178/713b7/data-vis.webp 680w,
+/static/979e78b579040cc14e8bbcab31aaf178/e28c4/data-vis.webp 750w&quot;
           sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/979e78b579040cc14e8bbcab31aaf178/ad208/data-vis.png 340w,
-/portfolio-revamp/static/979e78b579040cc14e8bbcab31aaf178/a5a26/data-vis.png 680w,
-/portfolio-revamp/static/979e78b579040cc14e8bbcab31aaf178/ef14d/data-vis.png 750w&quot;
+          srcset=&quot;/static/979e78b579040cc14e8bbcab31aaf178/ad208/data-vis.png 340w,
+/static/979e78b579040cc14e8bbcab31aaf178/a5a26/data-vis.png 680w,
+/static/979e78b579040cc14e8bbcab31aaf178/ef14d/data-vis.png 750w&quot;
           sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/979e78b579040cc14e8bbcab31aaf178/ef14d/data-vis.png&quot;
+          src=&quot;/static/979e78b579040cc14e8bbcab31aaf178/ef14d/data-vis.png&quot;
           alt=&quot;Internship - ReUbird&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/979e78b579040cc14e8bbcab31aaf178/ef14d/data-vis.png&quot;
+          src=&quot;/static/979e78b579040cc14e8bbcab31aaf178/ef14d/data-vis.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -259,7 +259,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/60cb2bb1e9b7d64c4aea51f0072238d8/ef14d/food.png&quot;
+    href=&quot;/static/60cb2bb1e9b7d64c4aea51f0072238d8/ef14d/food.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -275,26 +275,26 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/60cb2bb1e9b7d64c4aea51f0072238d8/51a8e/food.webp 340w,
-/portfolio-revamp/static/60cb2bb1e9b7d64c4aea51f0072238d8/713b7/food.webp 680w,
-/portfolio-revamp/static/60cb2bb1e9b7d64c4aea51f0072238d8/e28c4/food.webp 750w&quot;
+          srcset=&quot;/static/60cb2bb1e9b7d64c4aea51f0072238d8/51a8e/food.webp 340w,
+/static/60cb2bb1e9b7d64c4aea51f0072238d8/713b7/food.webp 680w,
+/static/60cb2bb1e9b7d64c4aea51f0072238d8/e28c4/food.webp 750w&quot;
           sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/60cb2bb1e9b7d64c4aea51f0072238d8/ad208/food.png 340w,
-/portfolio-revamp/static/60cb2bb1e9b7d64c4aea51f0072238d8/a5a26/food.png 680w,
-/portfolio-revamp/static/60cb2bb1e9b7d64c4aea51f0072238d8/ef14d/food.png 750w&quot;
+          srcset=&quot;/static/60cb2bb1e9b7d64c4aea51f0072238d8/ad208/food.png 340w,
+/static/60cb2bb1e9b7d64c4aea51f0072238d8/a5a26/food.png 680w,
+/static/60cb2bb1e9b7d64c4aea51f0072238d8/ef14d/food.png 750w&quot;
           sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/60cb2bb1e9b7d64c4aea51f0072238d8/ef14d/food.png&quot;
+          src=&quot;/static/60cb2bb1e9b7d64c4aea51f0072238d8/ef14d/food.png&quot;
           alt=&quot;Internship - ReUbird&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/60cb2bb1e9b7d64c4aea51f0072238d8/ef14d/food.png&quot;
+          src=&quot;/static/60cb2bb1e9b7d64c4aea51f0072238d8/ef14d/food.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -305,7 +305,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/7964d353e267cf2eb4322987dde171e5/64f98/food-reco.png&quot;
+    href=&quot;/static/7964d353e267cf2eb4322987dde171e5/64f98/food-reco.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -321,26 +321,26 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/7964d353e267cf2eb4322987dde171e5/51a8e/food-reco.webp 340w,
-/portfolio-revamp/static/7964d353e267cf2eb4322987dde171e5/713b7/food-reco.webp 680w,
-/portfolio-revamp/static/7964d353e267cf2eb4322987dde171e5/f414a/food-reco.webp 1170w&quot;
+          srcset=&quot;/static/7964d353e267cf2eb4322987dde171e5/51a8e/food-reco.webp 340w,
+/static/7964d353e267cf2eb4322987dde171e5/713b7/food-reco.webp 680w,
+/static/7964d353e267cf2eb4322987dde171e5/f414a/food-reco.webp 1170w&quot;
           sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/7964d353e267cf2eb4322987dde171e5/ad208/food-reco.png 340w,
-/portfolio-revamp/static/7964d353e267cf2eb4322987dde171e5/a5a26/food-reco.png 680w,
-/portfolio-revamp/static/7964d353e267cf2eb4322987dde171e5/64f98/food-reco.png 1170w&quot;
+          srcset=&quot;/static/7964d353e267cf2eb4322987dde171e5/ad208/food-reco.png 340w,
+/static/7964d353e267cf2eb4322987dde171e5/a5a26/food-reco.png 680w,
+/static/7964d353e267cf2eb4322987dde171e5/64f98/food-reco.png 1170w&quot;
           sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/7964d353e267cf2eb4322987dde171e5/64f98/food-reco.png&quot;
+          src=&quot;/static/7964d353e267cf2eb4322987dde171e5/64f98/food-reco.png&quot;
           alt=&quot;Internship - ReUbird&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/7964d353e267cf2eb4322987dde171e5/64f98/food-reco.png&quot;
+          src=&quot;/static/7964d353e267cf2eb4322987dde171e5/64f98/food-reco.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -356,7 +356,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/92b7e5459186e9023d9de477761bee80/b4640/rocketgo-demo-4.png&quot;
+    href=&quot;/static/92b7e5459186e9023d9de477761bee80/b4640/rocketgo-demo-4.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -372,24 +372,24 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/92b7e5459186e9023d9de477761bee80/51a8e/rocketgo-demo-4.webp 340w,
-/portfolio-revamp/static/92b7e5459186e9023d9de477761bee80/7fb5e/rocketgo-demo-4.webp 350w&quot;
+          srcset=&quot;/static/92b7e5459186e9023d9de477761bee80/51a8e/rocketgo-demo-4.webp 340w,
+/static/92b7e5459186e9023d9de477761bee80/7fb5e/rocketgo-demo-4.webp 350w&quot;
           sizes=&quot;(max-width: 350px) 100vw, 350px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/92b7e5459186e9023d9de477761bee80/ad208/rocketgo-demo-4.png 340w,
-/portfolio-revamp/static/92b7e5459186e9023d9de477761bee80/b4640/rocketgo-demo-4.png 350w&quot;
+          srcset=&quot;/static/92b7e5459186e9023d9de477761bee80/ad208/rocketgo-demo-4.png 340w,
+/static/92b7e5459186e9023d9de477761bee80/b4640/rocketgo-demo-4.png 350w&quot;
           sizes=&quot;(max-width: 350px) 100vw, 350px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/92b7e5459186e9023d9de477761bee80/b4640/rocketgo-demo-4.png&quot;
+          src=&quot;/static/92b7e5459186e9023d9de477761bee80/b4640/rocketgo-demo-4.png&quot;
           alt=&quot;React Native Mobile App&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/92b7e5459186e9023d9de477761bee80/b4640/rocketgo-demo-4.png&quot;
+          src=&quot;/static/92b7e5459186e9023d9de477761bee80/b4640/rocketgo-demo-4.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -402,7 +402,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/ac9dfa135b3e27c5f206b392137bc21b/f73ce/rocketgo-demo-2.jpg&quot;
+    href=&quot;/static/ac9dfa135b3e27c5f206b392137bc21b/f73ce/rocketgo-demo-2.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -418,24 +418,24 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/ac9dfa135b3e27c5f206b392137bc21b/51a8e/rocketgo-demo-2.webp 340w,
-/portfolio-revamp/static/ac9dfa135b3e27c5f206b392137bc21b/cae0c/rocketgo-demo-2.webp 422w&quot;
+          srcset=&quot;/static/ac9dfa135b3e27c5f206b392137bc21b/51a8e/rocketgo-demo-2.webp 340w,
+/static/ac9dfa135b3e27c5f206b392137bc21b/cae0c/rocketgo-demo-2.webp 422w&quot;
           sizes=&quot;(max-width: 422px) 100vw, 422px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/ac9dfa135b3e27c5f206b392137bc21b/2e524/rocketgo-demo-2.jpg 340w,
-/portfolio-revamp/static/ac9dfa135b3e27c5f206b392137bc21b/f73ce/rocketgo-demo-2.jpg 422w&quot;
+          srcset=&quot;/static/ac9dfa135b3e27c5f206b392137bc21b/2e524/rocketgo-demo-2.jpg 340w,
+/static/ac9dfa135b3e27c5f206b392137bc21b/f73ce/rocketgo-demo-2.jpg 422w&quot;
           sizes=&quot;(max-width: 422px) 100vw, 422px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/ac9dfa135b3e27c5f206b392137bc21b/f73ce/rocketgo-demo-2.jpg&quot;
+          src=&quot;/static/ac9dfa135b3e27c5f206b392137bc21b/f73ce/rocketgo-demo-2.jpg&quot;
           alt=&quot;React Native Mobile App&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/ac9dfa135b3e27c5f206b392137bc21b/f73ce/rocketgo-demo-2.jpg&quot;
+          src=&quot;/static/ac9dfa135b3e27c5f206b392137bc21b/f73ce/rocketgo-demo-2.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -446,7 +446,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/bc42c881809446f125af742b311642ee/f73ce/rocketgo-demo-3.jpg&quot;
+    href=&quot;/static/bc42c881809446f125af742b311642ee/f73ce/rocketgo-demo-3.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -462,24 +462,24 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/bc42c881809446f125af742b311642ee/51a8e/rocketgo-demo-3.webp 340w,
-/portfolio-revamp/static/bc42c881809446f125af742b311642ee/cae0c/rocketgo-demo-3.webp 422w&quot;
+          srcset=&quot;/static/bc42c881809446f125af742b311642ee/51a8e/rocketgo-demo-3.webp 340w,
+/static/bc42c881809446f125af742b311642ee/cae0c/rocketgo-demo-3.webp 422w&quot;
           sizes=&quot;(max-width: 422px) 100vw, 422px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/bc42c881809446f125af742b311642ee/2e524/rocketgo-demo-3.jpg 340w,
-/portfolio-revamp/static/bc42c881809446f125af742b311642ee/f73ce/rocketgo-demo-3.jpg 422w&quot;
+          srcset=&quot;/static/bc42c881809446f125af742b311642ee/2e524/rocketgo-demo-3.jpg 340w,
+/static/bc42c881809446f125af742b311642ee/f73ce/rocketgo-demo-3.jpg 422w&quot;
           sizes=&quot;(max-width: 422px) 100vw, 422px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/bc42c881809446f125af742b311642ee/f73ce/rocketgo-demo-3.jpg&quot;
+          src=&quot;/static/bc42c881809446f125af742b311642ee/f73ce/rocketgo-demo-3.jpg&quot;
           alt=&quot;React Native Mobile App&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/bc42c881809446f125af742b311642ee/f73ce/rocketgo-demo-3.jpg&quot;
+          src=&quot;/static/bc42c881809446f125af742b311642ee/f73ce/rocketgo-demo-3.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -495,7 +495,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/5ed2b/reubird-demo-1.png&quot;
+    href=&quot;/static/f71075ad69fccb40e5011b47998b3805/5ed2b/reubird-demo-1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -511,30 +511,30 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/51a8e/reubird-demo-1.webp 340w,
-/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/713b7/reubird-demo-1.webp 680w,
-/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/54376/reubird-demo-1.webp 1360w,
-/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/0be89/reubird-demo-1.webp 2040w,
-/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/3fd8d/reubird-demo-1.webp 2242w&quot;
+          srcset=&quot;/static/f71075ad69fccb40e5011b47998b3805/51a8e/reubird-demo-1.webp 340w,
+/static/f71075ad69fccb40e5011b47998b3805/713b7/reubird-demo-1.webp 680w,
+/static/f71075ad69fccb40e5011b47998b3805/54376/reubird-demo-1.webp 1360w,
+/static/f71075ad69fccb40e5011b47998b3805/0be89/reubird-demo-1.webp 2040w,
+/static/f71075ad69fccb40e5011b47998b3805/3fd8d/reubird-demo-1.webp 2242w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/ad208/reubird-demo-1.png 340w,
-/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/a5a26/reubird-demo-1.png 680w,
-/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/60356/reubird-demo-1.png 1360w,
-/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/bb4cf/reubird-demo-1.png 2040w,
-/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/5ed2b/reubird-demo-1.png 2242w&quot;
+          srcset=&quot;/static/f71075ad69fccb40e5011b47998b3805/ad208/reubird-demo-1.png 340w,
+/static/f71075ad69fccb40e5011b47998b3805/a5a26/reubird-demo-1.png 680w,
+/static/f71075ad69fccb40e5011b47998b3805/60356/reubird-demo-1.png 1360w,
+/static/f71075ad69fccb40e5011b47998b3805/bb4cf/reubird-demo-1.png 2040w,
+/static/f71075ad69fccb40e5011b47998b3805/5ed2b/reubird-demo-1.png 2242w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/60356/reubird-demo-1.png&quot;
+          src=&quot;/static/f71075ad69fccb40e5011b47998b3805/60356/reubird-demo-1.png&quot;
           alt=&quot;Internship - ReUbird&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/f71075ad69fccb40e5011b47998b3805/60356/reubird-demo-1.png&quot;
+          src=&quot;/static/f71075ad69fccb40e5011b47998b3805/60356/reubird-demo-1.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -547,7 +547,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/8dc0b/merchant-portal-credit-card.png&quot;
+    href=&quot;/static/afafa99d1180cccd5bc815fb26464b5e/8dc0b/merchant-portal-credit-card.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -563,32 +563,32 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/51a8e/merchant-portal-credit-card.webp 340w,
-/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/713b7/merchant-portal-credit-card.webp 680w,
-/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/54376/merchant-portal-credit-card.webp 1360w,
-/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/0be89/merchant-portal-credit-card.webp 2040w,
-/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/71194/merchant-portal-credit-card.webp 2720w,
-/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/49c8e/merchant-portal-credit-card.webp 2880w&quot;
+          srcset=&quot;/static/afafa99d1180cccd5bc815fb26464b5e/51a8e/merchant-portal-credit-card.webp 340w,
+/static/afafa99d1180cccd5bc815fb26464b5e/713b7/merchant-portal-credit-card.webp 680w,
+/static/afafa99d1180cccd5bc815fb26464b5e/54376/merchant-portal-credit-card.webp 1360w,
+/static/afafa99d1180cccd5bc815fb26464b5e/0be89/merchant-portal-credit-card.webp 2040w,
+/static/afafa99d1180cccd5bc815fb26464b5e/71194/merchant-portal-credit-card.webp 2720w,
+/static/afafa99d1180cccd5bc815fb26464b5e/49c8e/merchant-portal-credit-card.webp 2880w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/ad208/merchant-portal-credit-card.png 340w,
-/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/a5a26/merchant-portal-credit-card.png 680w,
-/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/60356/merchant-portal-credit-card.png 1360w,
-/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/bb4cf/merchant-portal-credit-card.png 2040w,
-/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/df13e/merchant-portal-credit-card.png 2720w,
-/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/8dc0b/merchant-portal-credit-card.png 2880w&quot;
+          srcset=&quot;/static/afafa99d1180cccd5bc815fb26464b5e/ad208/merchant-portal-credit-card.png 340w,
+/static/afafa99d1180cccd5bc815fb26464b5e/a5a26/merchant-portal-credit-card.png 680w,
+/static/afafa99d1180cccd5bc815fb26464b5e/60356/merchant-portal-credit-card.png 1360w,
+/static/afafa99d1180cccd5bc815fb26464b5e/bb4cf/merchant-portal-credit-card.png 2040w,
+/static/afafa99d1180cccd5bc815fb26464b5e/df13e/merchant-portal-credit-card.png 2720w,
+/static/afafa99d1180cccd5bc815fb26464b5e/8dc0b/merchant-portal-credit-card.png 2880w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/60356/merchant-portal-credit-card.png&quot;
+          src=&quot;/static/afafa99d1180cccd5bc815fb26464b5e/60356/merchant-portal-credit-card.png&quot;
           alt=&quot;Internship - ReUbird&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/afafa99d1180cccd5bc815fb26464b5e/60356/merchant-portal-credit-card.png&quot;
+          src=&quot;/static/afafa99d1180cccd5bc815fb26464b5e/60356/merchant-portal-credit-card.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -605,7 +605,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/c474b/qna-demo-1.png&quot;
+    href=&quot;/static/ac30d7f126c0bd3010125d4e6c3f876f/c474b/qna-demo-1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -621,32 +621,32 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/51a8e/qna-demo-1.webp 340w,
-/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/713b7/qna-demo-1.webp 680w,
-/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/54376/qna-demo-1.webp 1360w,
-/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/0be89/qna-demo-1.webp 2040w,
-/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/71194/qna-demo-1.webp 2720w,
-/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/07e5e/qna-demo-1.webp 2862w&quot;
+          srcset=&quot;/static/ac30d7f126c0bd3010125d4e6c3f876f/51a8e/qna-demo-1.webp 340w,
+/static/ac30d7f126c0bd3010125d4e6c3f876f/713b7/qna-demo-1.webp 680w,
+/static/ac30d7f126c0bd3010125d4e6c3f876f/54376/qna-demo-1.webp 1360w,
+/static/ac30d7f126c0bd3010125d4e6c3f876f/0be89/qna-demo-1.webp 2040w,
+/static/ac30d7f126c0bd3010125d4e6c3f876f/71194/qna-demo-1.webp 2720w,
+/static/ac30d7f126c0bd3010125d4e6c3f876f/07e5e/qna-demo-1.webp 2862w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/ad208/qna-demo-1.png 340w,
-/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/a5a26/qna-demo-1.png 680w,
-/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/60356/qna-demo-1.png 1360w,
-/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/bb4cf/qna-demo-1.png 2040w,
-/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/df13e/qna-demo-1.png 2720w,
-/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/c474b/qna-demo-1.png 2862w&quot;
+          srcset=&quot;/static/ac30d7f126c0bd3010125d4e6c3f876f/ad208/qna-demo-1.png 340w,
+/static/ac30d7f126c0bd3010125d4e6c3f876f/a5a26/qna-demo-1.png 680w,
+/static/ac30d7f126c0bd3010125d4e6c3f876f/60356/qna-demo-1.png 1360w,
+/static/ac30d7f126c0bd3010125d4e6c3f876f/bb4cf/qna-demo-1.png 2040w,
+/static/ac30d7f126c0bd3010125d4e6c3f876f/df13e/qna-demo-1.png 2720w,
+/static/ac30d7f126c0bd3010125d4e6c3f876f/c474b/qna-demo-1.png 2862w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/60356/qna-demo-1.png&quot;
+          src=&quot;/static/ac30d7f126c0bd3010125d4e6c3f876f/60356/qna-demo-1.png&quot;
           alt=&quot;MySilkWay - E-Commerce Platform&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/ac30d7f126c0bd3010125d4e6c3f876f/60356/qna-demo-1.png&quot;
+          src=&quot;/static/ac30d7f126c0bd3010125d4e6c3f876f/60356/qna-demo-1.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -658,7 +658,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/6d7f2/qna-demo-2.png&quot;
+    href=&quot;/static/3691803dcea54bc11a15d09c98ddb043/6d7f2/qna-demo-2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -674,32 +674,32 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/51a8e/qna-demo-2.webp 340w,
-/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/713b7/qna-demo-2.webp 680w,
-/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/54376/qna-demo-2.webp 1360w,
-/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/0be89/qna-demo-2.webp 2040w,
-/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/71194/qna-demo-2.webp 2720w,
-/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/3131b/qna-demo-2.webp 4575w&quot;
+          srcset=&quot;/static/3691803dcea54bc11a15d09c98ddb043/51a8e/qna-demo-2.webp 340w,
+/static/3691803dcea54bc11a15d09c98ddb043/713b7/qna-demo-2.webp 680w,
+/static/3691803dcea54bc11a15d09c98ddb043/54376/qna-demo-2.webp 1360w,
+/static/3691803dcea54bc11a15d09c98ddb043/0be89/qna-demo-2.webp 2040w,
+/static/3691803dcea54bc11a15d09c98ddb043/71194/qna-demo-2.webp 2720w,
+/static/3691803dcea54bc11a15d09c98ddb043/3131b/qna-demo-2.webp 4575w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/ad208/qna-demo-2.png 340w,
-/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/a5a26/qna-demo-2.png 680w,
-/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/60356/qna-demo-2.png 1360w,
-/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/bb4cf/qna-demo-2.png 2040w,
-/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/df13e/qna-demo-2.png 2720w,
-/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/6d7f2/qna-demo-2.png 4575w&quot;
+          srcset=&quot;/static/3691803dcea54bc11a15d09c98ddb043/ad208/qna-demo-2.png 340w,
+/static/3691803dcea54bc11a15d09c98ddb043/a5a26/qna-demo-2.png 680w,
+/static/3691803dcea54bc11a15d09c98ddb043/60356/qna-demo-2.png 1360w,
+/static/3691803dcea54bc11a15d09c98ddb043/bb4cf/qna-demo-2.png 2040w,
+/static/3691803dcea54bc11a15d09c98ddb043/df13e/qna-demo-2.png 2720w,
+/static/3691803dcea54bc11a15d09c98ddb043/6d7f2/qna-demo-2.png 4575w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/60356/qna-demo-2.png&quot;
+          src=&quot;/static/3691803dcea54bc11a15d09c98ddb043/60356/qna-demo-2.png&quot;
           alt=&quot;MySilkWay - E-Commerce Platform&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/3691803dcea54bc11a15d09c98ddb043/60356/qna-demo-2.png&quot;
+          src=&quot;/static/3691803dcea54bc11a15d09c98ddb043/60356/qna-demo-2.png&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -715,7 +715,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/9d5a4783df570e5baa6b7bb091607efd/cbe2c/BLACK_II_desktop-1.jpg&quot;
+    href=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/cbe2c/BLACK_II_desktop-1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -731,28 +731,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/9d5a4783df570e5baa6b7bb091607efd/51a8e/BLACK_II_desktop-1.webp 340w,
-/portfolio-revamp/static/9d5a4783df570e5baa6b7bb091607efd/713b7/BLACK_II_desktop-1.webp 680w,
-/portfolio-revamp/static/9d5a4783df570e5baa6b7bb091607efd/54376/BLACK_II_desktop-1.webp 1360w,
-/portfolio-revamp/static/9d5a4783df570e5baa6b7bb091607efd/521a5/BLACK_II_desktop-1.webp 2000w&quot;
+          srcset=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/51a8e/BLACK_II_desktop-1.webp 340w,
+/static/9d5a4783df570e5baa6b7bb091607efd/713b7/BLACK_II_desktop-1.webp 680w,
+/static/9d5a4783df570e5baa6b7bb091607efd/54376/BLACK_II_desktop-1.webp 1360w,
+/static/9d5a4783df570e5baa6b7bb091607efd/521a5/BLACK_II_desktop-1.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/9d5a4783df570e5baa6b7bb091607efd/2e524/BLACK_II_desktop-1.jpg 340w,
-/portfolio-revamp/static/9d5a4783df570e5baa6b7bb091607efd/d330d/BLACK_II_desktop-1.jpg 680w,
-/portfolio-revamp/static/9d5a4783df570e5baa6b7bb091607efd/6c26c/BLACK_II_desktop-1.jpg 1360w,
-/portfolio-revamp/static/9d5a4783df570e5baa6b7bb091607efd/cbe2c/BLACK_II_desktop-1.jpg 2000w&quot;
+          srcset=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/2e524/BLACK_II_desktop-1.jpg 340w,
+/static/9d5a4783df570e5baa6b7bb091607efd/d330d/BLACK_II_desktop-1.jpg 680w,
+/static/9d5a4783df570e5baa6b7bb091607efd/6c26c/BLACK_II_desktop-1.jpg 1360w,
+/static/9d5a4783df570e5baa6b7bb091607efd/cbe2c/BLACK_II_desktop-1.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/9d5a4783df570e5baa6b7bb091607efd/6c26c/BLACK_II_desktop-1.jpg&quot;
+          src=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/6c26c/BLACK_II_desktop-1.jpg&quot;
           alt=&quot;Darkness&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/9d5a4783df570e5baa6b7bb091607efd/6c26c/BLACK_II_desktop-1.jpg&quot;
+          src=&quot;/static/9d5a4783df570e5baa6b7bb091607efd/6c26c/BLACK_II_desktop-1.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -765,7 +765,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/4e0e77d8419b9f430960a99f16b48ace/cbe2c/BLACK_IX_desktop-1.jpg&quot;
+    href=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/cbe2c/BLACK_IX_desktop-1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -781,28 +781,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/4e0e77d8419b9f430960a99f16b48ace/51a8e/BLACK_IX_desktop-1.webp 340w,
-/portfolio-revamp/static/4e0e77d8419b9f430960a99f16b48ace/713b7/BLACK_IX_desktop-1.webp 680w,
-/portfolio-revamp/static/4e0e77d8419b9f430960a99f16b48ace/54376/BLACK_IX_desktop-1.webp 1360w,
-/portfolio-revamp/static/4e0e77d8419b9f430960a99f16b48ace/521a5/BLACK_IX_desktop-1.webp 2000w&quot;
+          srcset=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/51a8e/BLACK_IX_desktop-1.webp 340w,
+/static/4e0e77d8419b9f430960a99f16b48ace/713b7/BLACK_IX_desktop-1.webp 680w,
+/static/4e0e77d8419b9f430960a99f16b48ace/54376/BLACK_IX_desktop-1.webp 1360w,
+/static/4e0e77d8419b9f430960a99f16b48ace/521a5/BLACK_IX_desktop-1.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/4e0e77d8419b9f430960a99f16b48ace/2e524/BLACK_IX_desktop-1.jpg 340w,
-/portfolio-revamp/static/4e0e77d8419b9f430960a99f16b48ace/d330d/BLACK_IX_desktop-1.jpg 680w,
-/portfolio-revamp/static/4e0e77d8419b9f430960a99f16b48ace/6c26c/BLACK_IX_desktop-1.jpg 1360w,
-/portfolio-revamp/static/4e0e77d8419b9f430960a99f16b48ace/cbe2c/BLACK_IX_desktop-1.jpg 2000w&quot;
+          srcset=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/2e524/BLACK_IX_desktop-1.jpg 340w,
+/static/4e0e77d8419b9f430960a99f16b48ace/d330d/BLACK_IX_desktop-1.jpg 680w,
+/static/4e0e77d8419b9f430960a99f16b48ace/6c26c/BLACK_IX_desktop-1.jpg 1360w,
+/static/4e0e77d8419b9f430960a99f16b48ace/cbe2c/BLACK_IX_desktop-1.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/4e0e77d8419b9f430960a99f16b48ace/6c26c/BLACK_IX_desktop-1.jpg&quot;
+          src=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/6c26c/BLACK_IX_desktop-1.jpg&quot;
           alt=&quot;Darkness&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/4e0e77d8419b9f430960a99f16b48ace/6c26c/BLACK_IX_desktop-1.jpg&quot;
+          src=&quot;/static/4e0e77d8419b9f430960a99f16b48ace/6c26c/BLACK_IX_desktop-1.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -815,7 +815,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/00ff909860392cb993579590db441a52/cbe2c/BLACK_I_desktop-1.jpg&quot;
+    href=&quot;/static/00ff909860392cb993579590db441a52/cbe2c/BLACK_I_desktop-1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -831,28 +831,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/00ff909860392cb993579590db441a52/51a8e/BLACK_I_desktop-1.webp 340w,
-/portfolio-revamp/static/00ff909860392cb993579590db441a52/713b7/BLACK_I_desktop-1.webp 680w,
-/portfolio-revamp/static/00ff909860392cb993579590db441a52/54376/BLACK_I_desktop-1.webp 1360w,
-/portfolio-revamp/static/00ff909860392cb993579590db441a52/521a5/BLACK_I_desktop-1.webp 2000w&quot;
+          srcset=&quot;/static/00ff909860392cb993579590db441a52/51a8e/BLACK_I_desktop-1.webp 340w,
+/static/00ff909860392cb993579590db441a52/713b7/BLACK_I_desktop-1.webp 680w,
+/static/00ff909860392cb993579590db441a52/54376/BLACK_I_desktop-1.webp 1360w,
+/static/00ff909860392cb993579590db441a52/521a5/BLACK_I_desktop-1.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/00ff909860392cb993579590db441a52/2e524/BLACK_I_desktop-1.jpg 340w,
-/portfolio-revamp/static/00ff909860392cb993579590db441a52/d330d/BLACK_I_desktop-1.jpg 680w,
-/portfolio-revamp/static/00ff909860392cb993579590db441a52/6c26c/BLACK_I_desktop-1.jpg 1360w,
-/portfolio-revamp/static/00ff909860392cb993579590db441a52/cbe2c/BLACK_I_desktop-1.jpg 2000w&quot;
+          srcset=&quot;/static/00ff909860392cb993579590db441a52/2e524/BLACK_I_desktop-1.jpg 340w,
+/static/00ff909860392cb993579590db441a52/d330d/BLACK_I_desktop-1.jpg 680w,
+/static/00ff909860392cb993579590db441a52/6c26c/BLACK_I_desktop-1.jpg 1360w,
+/static/00ff909860392cb993579590db441a52/cbe2c/BLACK_I_desktop-1.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/00ff909860392cb993579590db441a52/6c26c/BLACK_I_desktop-1.jpg&quot;
+          src=&quot;/static/00ff909860392cb993579590db441a52/6c26c/BLACK_I_desktop-1.jpg&quot;
           alt=&quot;Darkness&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/00ff909860392cb993579590db441a52/6c26c/BLACK_I_desktop-1.jpg&quot;
+          src=&quot;/static/00ff909860392cb993579590db441a52/6c26c/BLACK_I_desktop-1.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -865,7 +865,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/f9f135b7f31d141d7b7ee264de4e1b73/cbe2c/ian-dooley-298771-unsplash-1.jpg&quot;
+    href=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/cbe2c/ian-dooley-298771-unsplash-1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -881,28 +881,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/f9f135b7f31d141d7b7ee264de4e1b73/51a8e/ian-dooley-298771-unsplash-1.webp 340w,
-/portfolio-revamp/static/f9f135b7f31d141d7b7ee264de4e1b73/713b7/ian-dooley-298771-unsplash-1.webp 680w,
-/portfolio-revamp/static/f9f135b7f31d141d7b7ee264de4e1b73/54376/ian-dooley-298771-unsplash-1.webp 1360w,
-/portfolio-revamp/static/f9f135b7f31d141d7b7ee264de4e1b73/521a5/ian-dooley-298771-unsplash-1.webp 2000w&quot;
+          srcset=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/51a8e/ian-dooley-298771-unsplash-1.webp 340w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/713b7/ian-dooley-298771-unsplash-1.webp 680w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/54376/ian-dooley-298771-unsplash-1.webp 1360w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/521a5/ian-dooley-298771-unsplash-1.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/f9f135b7f31d141d7b7ee264de4e1b73/2e524/ian-dooley-298771-unsplash-1.jpg 340w,
-/portfolio-revamp/static/f9f135b7f31d141d7b7ee264de4e1b73/d330d/ian-dooley-298771-unsplash-1.jpg 680w,
-/portfolio-revamp/static/f9f135b7f31d141d7b7ee264de4e1b73/6c26c/ian-dooley-298771-unsplash-1.jpg 1360w,
-/portfolio-revamp/static/f9f135b7f31d141d7b7ee264de4e1b73/cbe2c/ian-dooley-298771-unsplash-1.jpg 2000w&quot;
+          srcset=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/2e524/ian-dooley-298771-unsplash-1.jpg 340w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/d330d/ian-dooley-298771-unsplash-1.jpg 680w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/6c26c/ian-dooley-298771-unsplash-1.jpg 1360w,
+/static/f9f135b7f31d141d7b7ee264de4e1b73/cbe2c/ian-dooley-298771-unsplash-1.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/f9f135b7f31d141d7b7ee264de4e1b73/6c26c/ian-dooley-298771-unsplash-1.jpg&quot;
+          src=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/6c26c/ian-dooley-298771-unsplash-1.jpg&quot;
           alt=&quot;Don&apos;t stop&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/f9f135b7f31d141d7b7ee264de4e1b73/6c26c/ian-dooley-298771-unsplash-1.jpg&quot;
+          src=&quot;/static/f9f135b7f31d141d7b7ee264de4e1b73/6c26c/ian-dooley-298771-unsplash-1.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -913,7 +913,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/eb49d6b0e91431744d4293eecda221ce/cbe2c/ian-dooley-298780-unsplash-1.jpg&quot;
+    href=&quot;/static/eb49d6b0e91431744d4293eecda221ce/cbe2c/ian-dooley-298780-unsplash-1.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -929,28 +929,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/eb49d6b0e91431744d4293eecda221ce/51a8e/ian-dooley-298780-unsplash-1.webp 340w,
-/portfolio-revamp/static/eb49d6b0e91431744d4293eecda221ce/713b7/ian-dooley-298780-unsplash-1.webp 680w,
-/portfolio-revamp/static/eb49d6b0e91431744d4293eecda221ce/54376/ian-dooley-298780-unsplash-1.webp 1360w,
-/portfolio-revamp/static/eb49d6b0e91431744d4293eecda221ce/521a5/ian-dooley-298780-unsplash-1.webp 2000w&quot;
+          srcset=&quot;/static/eb49d6b0e91431744d4293eecda221ce/51a8e/ian-dooley-298780-unsplash-1.webp 340w,
+/static/eb49d6b0e91431744d4293eecda221ce/713b7/ian-dooley-298780-unsplash-1.webp 680w,
+/static/eb49d6b0e91431744d4293eecda221ce/54376/ian-dooley-298780-unsplash-1.webp 1360w,
+/static/eb49d6b0e91431744d4293eecda221ce/521a5/ian-dooley-298780-unsplash-1.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/eb49d6b0e91431744d4293eecda221ce/2e524/ian-dooley-298780-unsplash-1.jpg 340w,
-/portfolio-revamp/static/eb49d6b0e91431744d4293eecda221ce/d330d/ian-dooley-298780-unsplash-1.jpg 680w,
-/portfolio-revamp/static/eb49d6b0e91431744d4293eecda221ce/6c26c/ian-dooley-298780-unsplash-1.jpg 1360w,
-/portfolio-revamp/static/eb49d6b0e91431744d4293eecda221ce/cbe2c/ian-dooley-298780-unsplash-1.jpg 2000w&quot;
+          srcset=&quot;/static/eb49d6b0e91431744d4293eecda221ce/2e524/ian-dooley-298780-unsplash-1.jpg 340w,
+/static/eb49d6b0e91431744d4293eecda221ce/d330d/ian-dooley-298780-unsplash-1.jpg 680w,
+/static/eb49d6b0e91431744d4293eecda221ce/6c26c/ian-dooley-298780-unsplash-1.jpg 1360w,
+/static/eb49d6b0e91431744d4293eecda221ce/cbe2c/ian-dooley-298780-unsplash-1.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/eb49d6b0e91431744d4293eecda221ce/6c26c/ian-dooley-298780-unsplash-1.jpg&quot;
+          src=&quot;/static/eb49d6b0e91431744d4293eecda221ce/6c26c/ian-dooley-298780-unsplash-1.jpg&quot;
           alt=&quot;Don&apos;t stop&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/eb49d6b0e91431744d4293eecda221ce/6c26c/ian-dooley-298780-unsplash-1.jpg&quot;
+          src=&quot;/static/eb49d6b0e91431744d4293eecda221ce/6c26c/ian-dooley-298780-unsplash-1.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -960,7 +960,7 @@
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[It's all blue]]></title><link>https://ckt22.github.io/portfolio-revamp/its-all-blue/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/its-all-blue/</guid><pubDate>Mon, 06 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/9bd155b91c231debb6f82d7b9852fa76/cbe2c/cody-davis-253925-unsplash.jpg&quot;
+    href=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/cbe2c/cody-davis-253925-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -976,28 +976,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/9bd155b91c231debb6f82d7b9852fa76/51a8e/cody-davis-253925-unsplash.webp 340w,
-/portfolio-revamp/static/9bd155b91c231debb6f82d7b9852fa76/713b7/cody-davis-253925-unsplash.webp 680w,
-/portfolio-revamp/static/9bd155b91c231debb6f82d7b9852fa76/54376/cody-davis-253925-unsplash.webp 1360w,
-/portfolio-revamp/static/9bd155b91c231debb6f82d7b9852fa76/521a5/cody-davis-253925-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/51a8e/cody-davis-253925-unsplash.webp 340w,
+/static/9bd155b91c231debb6f82d7b9852fa76/713b7/cody-davis-253925-unsplash.webp 680w,
+/static/9bd155b91c231debb6f82d7b9852fa76/54376/cody-davis-253925-unsplash.webp 1360w,
+/static/9bd155b91c231debb6f82d7b9852fa76/521a5/cody-davis-253925-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/9bd155b91c231debb6f82d7b9852fa76/2e524/cody-davis-253925-unsplash.jpg 340w,
-/portfolio-revamp/static/9bd155b91c231debb6f82d7b9852fa76/d330d/cody-davis-253925-unsplash.jpg 680w,
-/portfolio-revamp/static/9bd155b91c231debb6f82d7b9852fa76/6c26c/cody-davis-253925-unsplash.jpg 1360w,
-/portfolio-revamp/static/9bd155b91c231debb6f82d7b9852fa76/cbe2c/cody-davis-253925-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/2e524/cody-davis-253925-unsplash.jpg 340w,
+/static/9bd155b91c231debb6f82d7b9852fa76/d330d/cody-davis-253925-unsplash.jpg 680w,
+/static/9bd155b91c231debb6f82d7b9852fa76/6c26c/cody-davis-253925-unsplash.jpg 1360w,
+/static/9bd155b91c231debb6f82d7b9852fa76/cbe2c/cody-davis-253925-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/9bd155b91c231debb6f82d7b9852fa76/6c26c/cody-davis-253925-unsplash.jpg&quot;
+          src=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/6c26c/cody-davis-253925-unsplash.jpg&quot;
           alt=&quot;It&apos;s all blue&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/9bd155b91c231debb6f82d7b9852fa76/6c26c/cody-davis-253925-unsplash.jpg&quot;
+          src=&quot;/static/9bd155b91c231debb6f82d7b9852fa76/6c26c/cody-davis-253925-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1008,7 +1008,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/b833f68b610104a59dcc9d3be77f6170/cbe2c/cody-davis-259003-unsplash.jpg&quot;
+    href=&quot;/static/b833f68b610104a59dcc9d3be77f6170/cbe2c/cody-davis-259003-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1024,28 +1024,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/b833f68b610104a59dcc9d3be77f6170/51a8e/cody-davis-259003-unsplash.webp 340w,
-/portfolio-revamp/static/b833f68b610104a59dcc9d3be77f6170/713b7/cody-davis-259003-unsplash.webp 680w,
-/portfolio-revamp/static/b833f68b610104a59dcc9d3be77f6170/54376/cody-davis-259003-unsplash.webp 1360w,
-/portfolio-revamp/static/b833f68b610104a59dcc9d3be77f6170/521a5/cody-davis-259003-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/b833f68b610104a59dcc9d3be77f6170/51a8e/cody-davis-259003-unsplash.webp 340w,
+/static/b833f68b610104a59dcc9d3be77f6170/713b7/cody-davis-259003-unsplash.webp 680w,
+/static/b833f68b610104a59dcc9d3be77f6170/54376/cody-davis-259003-unsplash.webp 1360w,
+/static/b833f68b610104a59dcc9d3be77f6170/521a5/cody-davis-259003-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/b833f68b610104a59dcc9d3be77f6170/2e524/cody-davis-259003-unsplash.jpg 340w,
-/portfolio-revamp/static/b833f68b610104a59dcc9d3be77f6170/d330d/cody-davis-259003-unsplash.jpg 680w,
-/portfolio-revamp/static/b833f68b610104a59dcc9d3be77f6170/6c26c/cody-davis-259003-unsplash.jpg 1360w,
-/portfolio-revamp/static/b833f68b610104a59dcc9d3be77f6170/cbe2c/cody-davis-259003-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/b833f68b610104a59dcc9d3be77f6170/2e524/cody-davis-259003-unsplash.jpg 340w,
+/static/b833f68b610104a59dcc9d3be77f6170/d330d/cody-davis-259003-unsplash.jpg 680w,
+/static/b833f68b610104a59dcc9d3be77f6170/6c26c/cody-davis-259003-unsplash.jpg 1360w,
+/static/b833f68b610104a59dcc9d3be77f6170/cbe2c/cody-davis-259003-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/b833f68b610104a59dcc9d3be77f6170/6c26c/cody-davis-259003-unsplash.jpg&quot;
+          src=&quot;/static/b833f68b610104a59dcc9d3be77f6170/6c26c/cody-davis-259003-unsplash.jpg&quot;
           alt=&quot;It&apos;s all blue&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/b833f68b610104a59dcc9d3be77f6170/6c26c/cody-davis-259003-unsplash.jpg&quot;
+          src=&quot;/static/b833f68b610104a59dcc9d3be77f6170/6c26c/cody-davis-259003-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1055,7 +1055,7 @@
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clean lines]]></title><link>https://ckt22.github.io/portfolio-revamp/clean-lines/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/clean-lines/</guid><pubDate>Sun, 05 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/6346e1b3959c2359992fc4a3055afae7/cbe2c/clem-onojeghuo-207792-unsplash.jpg&quot;
+    href=&quot;/static/6346e1b3959c2359992fc4a3055afae7/cbe2c/clem-onojeghuo-207792-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1071,28 +1071,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/6346e1b3959c2359992fc4a3055afae7/51a8e/clem-onojeghuo-207792-unsplash.webp 340w,
-/portfolio-revamp/static/6346e1b3959c2359992fc4a3055afae7/713b7/clem-onojeghuo-207792-unsplash.webp 680w,
-/portfolio-revamp/static/6346e1b3959c2359992fc4a3055afae7/54376/clem-onojeghuo-207792-unsplash.webp 1360w,
-/portfolio-revamp/static/6346e1b3959c2359992fc4a3055afae7/521a5/clem-onojeghuo-207792-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/6346e1b3959c2359992fc4a3055afae7/51a8e/clem-onojeghuo-207792-unsplash.webp 340w,
+/static/6346e1b3959c2359992fc4a3055afae7/713b7/clem-onojeghuo-207792-unsplash.webp 680w,
+/static/6346e1b3959c2359992fc4a3055afae7/54376/clem-onojeghuo-207792-unsplash.webp 1360w,
+/static/6346e1b3959c2359992fc4a3055afae7/521a5/clem-onojeghuo-207792-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/6346e1b3959c2359992fc4a3055afae7/2e524/clem-onojeghuo-207792-unsplash.jpg 340w,
-/portfolio-revamp/static/6346e1b3959c2359992fc4a3055afae7/d330d/clem-onojeghuo-207792-unsplash.jpg 680w,
-/portfolio-revamp/static/6346e1b3959c2359992fc4a3055afae7/6c26c/clem-onojeghuo-207792-unsplash.jpg 1360w,
-/portfolio-revamp/static/6346e1b3959c2359992fc4a3055afae7/cbe2c/clem-onojeghuo-207792-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/6346e1b3959c2359992fc4a3055afae7/2e524/clem-onojeghuo-207792-unsplash.jpg 340w,
+/static/6346e1b3959c2359992fc4a3055afae7/d330d/clem-onojeghuo-207792-unsplash.jpg 680w,
+/static/6346e1b3959c2359992fc4a3055afae7/6c26c/clem-onojeghuo-207792-unsplash.jpg 1360w,
+/static/6346e1b3959c2359992fc4a3055afae7/cbe2c/clem-onojeghuo-207792-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/6346e1b3959c2359992fc4a3055afae7/6c26c/clem-onojeghuo-207792-unsplash.jpg&quot;
+          src=&quot;/static/6346e1b3959c2359992fc4a3055afae7/6c26c/clem-onojeghuo-207792-unsplash.jpg&quot;
           alt=&quot;Clean lines&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/6346e1b3959c2359992fc4a3055afae7/6c26c/clem-onojeghuo-207792-unsplash.jpg&quot;
+          src=&quot;/static/6346e1b3959c2359992fc4a3055afae7/6c26c/clem-onojeghuo-207792-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1103,7 +1103,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/076d9f90da7d84f2eafcfc5f26deecfa/cbe2c/mitch-lensink-588486-unsplash.jpg&quot;
+    href=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/cbe2c/mitch-lensink-588486-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1119,28 +1119,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/076d9f90da7d84f2eafcfc5f26deecfa/51a8e/mitch-lensink-588486-unsplash.webp 340w,
-/portfolio-revamp/static/076d9f90da7d84f2eafcfc5f26deecfa/713b7/mitch-lensink-588486-unsplash.webp 680w,
-/portfolio-revamp/static/076d9f90da7d84f2eafcfc5f26deecfa/54376/mitch-lensink-588486-unsplash.webp 1360w,
-/portfolio-revamp/static/076d9f90da7d84f2eafcfc5f26deecfa/521a5/mitch-lensink-588486-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/51a8e/mitch-lensink-588486-unsplash.webp 340w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/713b7/mitch-lensink-588486-unsplash.webp 680w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/54376/mitch-lensink-588486-unsplash.webp 1360w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/521a5/mitch-lensink-588486-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/076d9f90da7d84f2eafcfc5f26deecfa/2e524/mitch-lensink-588486-unsplash.jpg 340w,
-/portfolio-revamp/static/076d9f90da7d84f2eafcfc5f26deecfa/d330d/mitch-lensink-588486-unsplash.jpg 680w,
-/portfolio-revamp/static/076d9f90da7d84f2eafcfc5f26deecfa/6c26c/mitch-lensink-588486-unsplash.jpg 1360w,
-/portfolio-revamp/static/076d9f90da7d84f2eafcfc5f26deecfa/cbe2c/mitch-lensink-588486-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/2e524/mitch-lensink-588486-unsplash.jpg 340w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/d330d/mitch-lensink-588486-unsplash.jpg 680w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/6c26c/mitch-lensink-588486-unsplash.jpg 1360w,
+/static/076d9f90da7d84f2eafcfc5f26deecfa/cbe2c/mitch-lensink-588486-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/076d9f90da7d84f2eafcfc5f26deecfa/6c26c/mitch-lensink-588486-unsplash.jpg&quot;
+          src=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/6c26c/mitch-lensink-588486-unsplash.jpg&quot;
           alt=&quot;Clean lines&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/076d9f90da7d84f2eafcfc5f26deecfa/6c26c/mitch-lensink-588486-unsplash.jpg&quot;
+          src=&quot;/static/076d9f90da7d84f2eafcfc5f26deecfa/6c26c/mitch-lensink-588486-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1151,7 +1151,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/73a290867a40d3234d026f7e40d5e362/cbe2c/ricardo-gomez-angel-180819-unsplash.jpg&quot;
+    href=&quot;/static/73a290867a40d3234d026f7e40d5e362/cbe2c/ricardo-gomez-angel-180819-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1167,28 +1167,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/73a290867a40d3234d026f7e40d5e362/51a8e/ricardo-gomez-angel-180819-unsplash.webp 340w,
-/portfolio-revamp/static/73a290867a40d3234d026f7e40d5e362/713b7/ricardo-gomez-angel-180819-unsplash.webp 680w,
-/portfolio-revamp/static/73a290867a40d3234d026f7e40d5e362/54376/ricardo-gomez-angel-180819-unsplash.webp 1360w,
-/portfolio-revamp/static/73a290867a40d3234d026f7e40d5e362/521a5/ricardo-gomez-angel-180819-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/73a290867a40d3234d026f7e40d5e362/51a8e/ricardo-gomez-angel-180819-unsplash.webp 340w,
+/static/73a290867a40d3234d026f7e40d5e362/713b7/ricardo-gomez-angel-180819-unsplash.webp 680w,
+/static/73a290867a40d3234d026f7e40d5e362/54376/ricardo-gomez-angel-180819-unsplash.webp 1360w,
+/static/73a290867a40d3234d026f7e40d5e362/521a5/ricardo-gomez-angel-180819-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/73a290867a40d3234d026f7e40d5e362/2e524/ricardo-gomez-angel-180819-unsplash.jpg 340w,
-/portfolio-revamp/static/73a290867a40d3234d026f7e40d5e362/d330d/ricardo-gomez-angel-180819-unsplash.jpg 680w,
-/portfolio-revamp/static/73a290867a40d3234d026f7e40d5e362/6c26c/ricardo-gomez-angel-180819-unsplash.jpg 1360w,
-/portfolio-revamp/static/73a290867a40d3234d026f7e40d5e362/cbe2c/ricardo-gomez-angel-180819-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/73a290867a40d3234d026f7e40d5e362/2e524/ricardo-gomez-angel-180819-unsplash.jpg 340w,
+/static/73a290867a40d3234d026f7e40d5e362/d330d/ricardo-gomez-angel-180819-unsplash.jpg 680w,
+/static/73a290867a40d3234d026f7e40d5e362/6c26c/ricardo-gomez-angel-180819-unsplash.jpg 1360w,
+/static/73a290867a40d3234d026f7e40d5e362/cbe2c/ricardo-gomez-angel-180819-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/73a290867a40d3234d026f7e40d5e362/6c26c/ricardo-gomez-angel-180819-unsplash.jpg&quot;
+          src=&quot;/static/73a290867a40d3234d026f7e40d5e362/6c26c/ricardo-gomez-angel-180819-unsplash.jpg&quot;
           alt=&quot;Clean lines&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/73a290867a40d3234d026f7e40d5e362/6c26c/ricardo-gomez-angel-180819-unsplash.jpg&quot;
+          src=&quot;/static/73a290867a40d3234d026f7e40d5e362/6c26c/ricardo-gomez-angel-180819-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1199,7 +1199,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/d85512b0b9ce8d33ff86606608d65c53/cbe2c/joanna-kosinska-254406-unsplash.jpg&quot;
+    href=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/cbe2c/joanna-kosinska-254406-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1215,28 +1215,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/d85512b0b9ce8d33ff86606608d65c53/51a8e/joanna-kosinska-254406-unsplash.webp 340w,
-/portfolio-revamp/static/d85512b0b9ce8d33ff86606608d65c53/713b7/joanna-kosinska-254406-unsplash.webp 680w,
-/portfolio-revamp/static/d85512b0b9ce8d33ff86606608d65c53/54376/joanna-kosinska-254406-unsplash.webp 1360w,
-/portfolio-revamp/static/d85512b0b9ce8d33ff86606608d65c53/521a5/joanna-kosinska-254406-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/51a8e/joanna-kosinska-254406-unsplash.webp 340w,
+/static/d85512b0b9ce8d33ff86606608d65c53/713b7/joanna-kosinska-254406-unsplash.webp 680w,
+/static/d85512b0b9ce8d33ff86606608d65c53/54376/joanna-kosinska-254406-unsplash.webp 1360w,
+/static/d85512b0b9ce8d33ff86606608d65c53/521a5/joanna-kosinska-254406-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/d85512b0b9ce8d33ff86606608d65c53/2e524/joanna-kosinska-254406-unsplash.jpg 340w,
-/portfolio-revamp/static/d85512b0b9ce8d33ff86606608d65c53/d330d/joanna-kosinska-254406-unsplash.jpg 680w,
-/portfolio-revamp/static/d85512b0b9ce8d33ff86606608d65c53/6c26c/joanna-kosinska-254406-unsplash.jpg 1360w,
-/portfolio-revamp/static/d85512b0b9ce8d33ff86606608d65c53/cbe2c/joanna-kosinska-254406-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/2e524/joanna-kosinska-254406-unsplash.jpg 340w,
+/static/d85512b0b9ce8d33ff86606608d65c53/d330d/joanna-kosinska-254406-unsplash.jpg 680w,
+/static/d85512b0b9ce8d33ff86606608d65c53/6c26c/joanna-kosinska-254406-unsplash.jpg 1360w,
+/static/d85512b0b9ce8d33ff86606608d65c53/cbe2c/joanna-kosinska-254406-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/d85512b0b9ce8d33ff86606608d65c53/6c26c/joanna-kosinska-254406-unsplash.jpg&quot;
+          src=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/6c26c/joanna-kosinska-254406-unsplash.jpg&quot;
           alt=&quot;Clean lines&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/d85512b0b9ce8d33ff86606608d65c53/6c26c/joanna-kosinska-254406-unsplash.jpg&quot;
+          src=&quot;/static/d85512b0b9ce8d33ff86606608d65c53/6c26c/joanna-kosinska-254406-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1246,7 +1246,7 @@
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[All spikes]]></title><link>https://ckt22.github.io/portfolio-revamp/all-spikes/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/all-spikes/</guid><pubDate>Sat, 04 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/c7484ec51df371d20ff0b83d92feeb8a/cbe2c/charles-deluvio-695757-unsplash.jpg&quot;
+    href=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/cbe2c/charles-deluvio-695757-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1262,28 +1262,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/c7484ec51df371d20ff0b83d92feeb8a/51a8e/charles-deluvio-695757-unsplash.webp 340w,
-/portfolio-revamp/static/c7484ec51df371d20ff0b83d92feeb8a/713b7/charles-deluvio-695757-unsplash.webp 680w,
-/portfolio-revamp/static/c7484ec51df371d20ff0b83d92feeb8a/54376/charles-deluvio-695757-unsplash.webp 1360w,
-/portfolio-revamp/static/c7484ec51df371d20ff0b83d92feeb8a/521a5/charles-deluvio-695757-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/51a8e/charles-deluvio-695757-unsplash.webp 340w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/713b7/charles-deluvio-695757-unsplash.webp 680w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/54376/charles-deluvio-695757-unsplash.webp 1360w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/521a5/charles-deluvio-695757-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/c7484ec51df371d20ff0b83d92feeb8a/2e524/charles-deluvio-695757-unsplash.jpg 340w,
-/portfolio-revamp/static/c7484ec51df371d20ff0b83d92feeb8a/d330d/charles-deluvio-695757-unsplash.jpg 680w,
-/portfolio-revamp/static/c7484ec51df371d20ff0b83d92feeb8a/6c26c/charles-deluvio-695757-unsplash.jpg 1360w,
-/portfolio-revamp/static/c7484ec51df371d20ff0b83d92feeb8a/cbe2c/charles-deluvio-695757-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/2e524/charles-deluvio-695757-unsplash.jpg 340w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/d330d/charles-deluvio-695757-unsplash.jpg 680w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/6c26c/charles-deluvio-695757-unsplash.jpg 1360w,
+/static/c7484ec51df371d20ff0b83d92feeb8a/cbe2c/charles-deluvio-695757-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/c7484ec51df371d20ff0b83d92feeb8a/6c26c/charles-deluvio-695757-unsplash.jpg&quot;
+          src=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/6c26c/charles-deluvio-695757-unsplash.jpg&quot;
           alt=&quot;Cactus&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/c7484ec51df371d20ff0b83d92feeb8a/6c26c/charles-deluvio-695757-unsplash.jpg&quot;
+          src=&quot;/static/c7484ec51df371d20ff0b83d92feeb8a/6c26c/charles-deluvio-695757-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1294,7 +1294,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/638a03ee6e2ca276a2dc75f36331d28a/cbe2c/charles-deluvio-695736-unsplash.jpg&quot;
+    href=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/cbe2c/charles-deluvio-695736-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1310,28 +1310,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/638a03ee6e2ca276a2dc75f36331d28a/51a8e/charles-deluvio-695736-unsplash.webp 340w,
-/portfolio-revamp/static/638a03ee6e2ca276a2dc75f36331d28a/713b7/charles-deluvio-695736-unsplash.webp 680w,
-/portfolio-revamp/static/638a03ee6e2ca276a2dc75f36331d28a/54376/charles-deluvio-695736-unsplash.webp 1360w,
-/portfolio-revamp/static/638a03ee6e2ca276a2dc75f36331d28a/521a5/charles-deluvio-695736-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/51a8e/charles-deluvio-695736-unsplash.webp 340w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/713b7/charles-deluvio-695736-unsplash.webp 680w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/54376/charles-deluvio-695736-unsplash.webp 1360w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/521a5/charles-deluvio-695736-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/638a03ee6e2ca276a2dc75f36331d28a/2e524/charles-deluvio-695736-unsplash.jpg 340w,
-/portfolio-revamp/static/638a03ee6e2ca276a2dc75f36331d28a/d330d/charles-deluvio-695736-unsplash.jpg 680w,
-/portfolio-revamp/static/638a03ee6e2ca276a2dc75f36331d28a/6c26c/charles-deluvio-695736-unsplash.jpg 1360w,
-/portfolio-revamp/static/638a03ee6e2ca276a2dc75f36331d28a/cbe2c/charles-deluvio-695736-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/2e524/charles-deluvio-695736-unsplash.jpg 340w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/d330d/charles-deluvio-695736-unsplash.jpg 680w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/6c26c/charles-deluvio-695736-unsplash.jpg 1360w,
+/static/638a03ee6e2ca276a2dc75f36331d28a/cbe2c/charles-deluvio-695736-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/638a03ee6e2ca276a2dc75f36331d28a/6c26c/charles-deluvio-695736-unsplash.jpg&quot;
+          src=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/6c26c/charles-deluvio-695736-unsplash.jpg&quot;
           alt=&quot;Cactus&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/638a03ee6e2ca276a2dc75f36331d28a/6c26c/charles-deluvio-695736-unsplash.jpg&quot;
+          src=&quot;/static/638a03ee6e2ca276a2dc75f36331d28a/6c26c/charles-deluvio-695736-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1342,7 +1342,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/216e61171daaf84611afdcd561d726fa/cbe2c/charles-deluvio-695758-unsplash.jpg&quot;
+    href=&quot;/static/216e61171daaf84611afdcd561d726fa/cbe2c/charles-deluvio-695758-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1358,28 +1358,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/216e61171daaf84611afdcd561d726fa/51a8e/charles-deluvio-695758-unsplash.webp 340w,
-/portfolio-revamp/static/216e61171daaf84611afdcd561d726fa/713b7/charles-deluvio-695758-unsplash.webp 680w,
-/portfolio-revamp/static/216e61171daaf84611afdcd561d726fa/54376/charles-deluvio-695758-unsplash.webp 1360w,
-/portfolio-revamp/static/216e61171daaf84611afdcd561d726fa/521a5/charles-deluvio-695758-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/216e61171daaf84611afdcd561d726fa/51a8e/charles-deluvio-695758-unsplash.webp 340w,
+/static/216e61171daaf84611afdcd561d726fa/713b7/charles-deluvio-695758-unsplash.webp 680w,
+/static/216e61171daaf84611afdcd561d726fa/54376/charles-deluvio-695758-unsplash.webp 1360w,
+/static/216e61171daaf84611afdcd561d726fa/521a5/charles-deluvio-695758-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/216e61171daaf84611afdcd561d726fa/2e524/charles-deluvio-695758-unsplash.jpg 340w,
-/portfolio-revamp/static/216e61171daaf84611afdcd561d726fa/d330d/charles-deluvio-695758-unsplash.jpg 680w,
-/portfolio-revamp/static/216e61171daaf84611afdcd561d726fa/6c26c/charles-deluvio-695758-unsplash.jpg 1360w,
-/portfolio-revamp/static/216e61171daaf84611afdcd561d726fa/cbe2c/charles-deluvio-695758-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/216e61171daaf84611afdcd561d726fa/2e524/charles-deluvio-695758-unsplash.jpg 340w,
+/static/216e61171daaf84611afdcd561d726fa/d330d/charles-deluvio-695758-unsplash.jpg 680w,
+/static/216e61171daaf84611afdcd561d726fa/6c26c/charles-deluvio-695758-unsplash.jpg 1360w,
+/static/216e61171daaf84611afdcd561d726fa/cbe2c/charles-deluvio-695758-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/216e61171daaf84611afdcd561d726fa/6c26c/charles-deluvio-695758-unsplash.jpg&quot;
+          src=&quot;/static/216e61171daaf84611afdcd561d726fa/6c26c/charles-deluvio-695758-unsplash.jpg&quot;
           alt=&quot;Cactus&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/216e61171daaf84611afdcd561d726fa/6c26c/charles-deluvio-695758-unsplash.jpg&quot;
+          src=&quot;/static/216e61171daaf84611afdcd561d726fa/6c26c/charles-deluvio-695758-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1390,7 +1390,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/13fcadf01630d17cd11157919feaa547/cbe2c/charles-deluvio-695733-unsplash.jpg&quot;
+    href=&quot;/static/13fcadf01630d17cd11157919feaa547/cbe2c/charles-deluvio-695733-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1406,28 +1406,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/13fcadf01630d17cd11157919feaa547/51a8e/charles-deluvio-695733-unsplash.webp 340w,
-/portfolio-revamp/static/13fcadf01630d17cd11157919feaa547/713b7/charles-deluvio-695733-unsplash.webp 680w,
-/portfolio-revamp/static/13fcadf01630d17cd11157919feaa547/54376/charles-deluvio-695733-unsplash.webp 1360w,
-/portfolio-revamp/static/13fcadf01630d17cd11157919feaa547/521a5/charles-deluvio-695733-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/13fcadf01630d17cd11157919feaa547/51a8e/charles-deluvio-695733-unsplash.webp 340w,
+/static/13fcadf01630d17cd11157919feaa547/713b7/charles-deluvio-695733-unsplash.webp 680w,
+/static/13fcadf01630d17cd11157919feaa547/54376/charles-deluvio-695733-unsplash.webp 1360w,
+/static/13fcadf01630d17cd11157919feaa547/521a5/charles-deluvio-695733-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/13fcadf01630d17cd11157919feaa547/2e524/charles-deluvio-695733-unsplash.jpg 340w,
-/portfolio-revamp/static/13fcadf01630d17cd11157919feaa547/d330d/charles-deluvio-695733-unsplash.jpg 680w,
-/portfolio-revamp/static/13fcadf01630d17cd11157919feaa547/6c26c/charles-deluvio-695733-unsplash.jpg 1360w,
-/portfolio-revamp/static/13fcadf01630d17cd11157919feaa547/cbe2c/charles-deluvio-695733-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/13fcadf01630d17cd11157919feaa547/2e524/charles-deluvio-695733-unsplash.jpg 340w,
+/static/13fcadf01630d17cd11157919feaa547/d330d/charles-deluvio-695733-unsplash.jpg 680w,
+/static/13fcadf01630d17cd11157919feaa547/6c26c/charles-deluvio-695733-unsplash.jpg 1360w,
+/static/13fcadf01630d17cd11157919feaa547/cbe2c/charles-deluvio-695733-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/13fcadf01630d17cd11157919feaa547/6c26c/charles-deluvio-695733-unsplash.jpg&quot;
+          src=&quot;/static/13fcadf01630d17cd11157919feaa547/6c26c/charles-deluvio-695733-unsplash.jpg&quot;
           alt=&quot;Cactus&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/13fcadf01630d17cd11157919feaa547/6c26c/charles-deluvio-695733-unsplash.jpg&quot;
+          src=&quot;/static/13fcadf01630d17cd11157919feaa547/6c26c/charles-deluvio-695733-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1437,7 +1437,7 @@
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Green]]></title><link>https://ckt22.github.io/portfolio-revamp/green/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/green/</guid><pubDate>Fri, 03 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/dd82c627c6397daa9dacf5675967134b/cbe2c/chuttersnap-564286-unsplash.jpg&quot;
+    href=&quot;/static/dd82c627c6397daa9dacf5675967134b/cbe2c/chuttersnap-564286-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1453,28 +1453,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/dd82c627c6397daa9dacf5675967134b/51a8e/chuttersnap-564286-unsplash.webp 340w,
-/portfolio-revamp/static/dd82c627c6397daa9dacf5675967134b/713b7/chuttersnap-564286-unsplash.webp 680w,
-/portfolio-revamp/static/dd82c627c6397daa9dacf5675967134b/54376/chuttersnap-564286-unsplash.webp 1360w,
-/portfolio-revamp/static/dd82c627c6397daa9dacf5675967134b/521a5/chuttersnap-564286-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/dd82c627c6397daa9dacf5675967134b/51a8e/chuttersnap-564286-unsplash.webp 340w,
+/static/dd82c627c6397daa9dacf5675967134b/713b7/chuttersnap-564286-unsplash.webp 680w,
+/static/dd82c627c6397daa9dacf5675967134b/54376/chuttersnap-564286-unsplash.webp 1360w,
+/static/dd82c627c6397daa9dacf5675967134b/521a5/chuttersnap-564286-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/dd82c627c6397daa9dacf5675967134b/2e524/chuttersnap-564286-unsplash.jpg 340w,
-/portfolio-revamp/static/dd82c627c6397daa9dacf5675967134b/d330d/chuttersnap-564286-unsplash.jpg 680w,
-/portfolio-revamp/static/dd82c627c6397daa9dacf5675967134b/6c26c/chuttersnap-564286-unsplash.jpg 1360w,
-/portfolio-revamp/static/dd82c627c6397daa9dacf5675967134b/cbe2c/chuttersnap-564286-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/dd82c627c6397daa9dacf5675967134b/2e524/chuttersnap-564286-unsplash.jpg 340w,
+/static/dd82c627c6397daa9dacf5675967134b/d330d/chuttersnap-564286-unsplash.jpg 680w,
+/static/dd82c627c6397daa9dacf5675967134b/6c26c/chuttersnap-564286-unsplash.jpg 1360w,
+/static/dd82c627c6397daa9dacf5675967134b/cbe2c/chuttersnap-564286-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/dd82c627c6397daa9dacf5675967134b/6c26c/chuttersnap-564286-unsplash.jpg&quot;
+          src=&quot;/static/dd82c627c6397daa9dacf5675967134b/6c26c/chuttersnap-564286-unsplash.jpg&quot;
           alt=&quot;Green&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/dd82c627c6397daa9dacf5675967134b/6c26c/chuttersnap-564286-unsplash.jpg&quot;
+          src=&quot;/static/dd82c627c6397daa9dacf5675967134b/6c26c/chuttersnap-564286-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1485,7 +1485,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/c49f7fc564b6100900f07b238c32ad08/cbe2c/jazmin-quaynor-105210-unsplash.jpg&quot;
+    href=&quot;/static/c49f7fc564b6100900f07b238c32ad08/cbe2c/jazmin-quaynor-105210-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1501,28 +1501,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/c49f7fc564b6100900f07b238c32ad08/51a8e/jazmin-quaynor-105210-unsplash.webp 340w,
-/portfolio-revamp/static/c49f7fc564b6100900f07b238c32ad08/713b7/jazmin-quaynor-105210-unsplash.webp 680w,
-/portfolio-revamp/static/c49f7fc564b6100900f07b238c32ad08/54376/jazmin-quaynor-105210-unsplash.webp 1360w,
-/portfolio-revamp/static/c49f7fc564b6100900f07b238c32ad08/521a5/jazmin-quaynor-105210-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/c49f7fc564b6100900f07b238c32ad08/51a8e/jazmin-quaynor-105210-unsplash.webp 340w,
+/static/c49f7fc564b6100900f07b238c32ad08/713b7/jazmin-quaynor-105210-unsplash.webp 680w,
+/static/c49f7fc564b6100900f07b238c32ad08/54376/jazmin-quaynor-105210-unsplash.webp 1360w,
+/static/c49f7fc564b6100900f07b238c32ad08/521a5/jazmin-quaynor-105210-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/c49f7fc564b6100900f07b238c32ad08/2e524/jazmin-quaynor-105210-unsplash.jpg 340w,
-/portfolio-revamp/static/c49f7fc564b6100900f07b238c32ad08/d330d/jazmin-quaynor-105210-unsplash.jpg 680w,
-/portfolio-revamp/static/c49f7fc564b6100900f07b238c32ad08/6c26c/jazmin-quaynor-105210-unsplash.jpg 1360w,
-/portfolio-revamp/static/c49f7fc564b6100900f07b238c32ad08/cbe2c/jazmin-quaynor-105210-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/c49f7fc564b6100900f07b238c32ad08/2e524/jazmin-quaynor-105210-unsplash.jpg 340w,
+/static/c49f7fc564b6100900f07b238c32ad08/d330d/jazmin-quaynor-105210-unsplash.jpg 680w,
+/static/c49f7fc564b6100900f07b238c32ad08/6c26c/jazmin-quaynor-105210-unsplash.jpg 1360w,
+/static/c49f7fc564b6100900f07b238c32ad08/cbe2c/jazmin-quaynor-105210-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/c49f7fc564b6100900f07b238c32ad08/6c26c/jazmin-quaynor-105210-unsplash.jpg&quot;
+          src=&quot;/static/c49f7fc564b6100900f07b238c32ad08/6c26c/jazmin-quaynor-105210-unsplash.jpg&quot;
           alt=&quot;Green&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/c49f7fc564b6100900f07b238c32ad08/6c26c/jazmin-quaynor-105210-unsplash.jpg&quot;
+          src=&quot;/static/c49f7fc564b6100900f07b238c32ad08/6c26c/jazmin-quaynor-105210-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1533,7 +1533,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/f4fd4770aaee8d07614dbd372238c71e/cbe2c/josh-silver-730329-unsplash.jpg&quot;
+    href=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/cbe2c/josh-silver-730329-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1549,28 +1549,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/f4fd4770aaee8d07614dbd372238c71e/51a8e/josh-silver-730329-unsplash.webp 340w,
-/portfolio-revamp/static/f4fd4770aaee8d07614dbd372238c71e/713b7/josh-silver-730329-unsplash.webp 680w,
-/portfolio-revamp/static/f4fd4770aaee8d07614dbd372238c71e/54376/josh-silver-730329-unsplash.webp 1360w,
-/portfolio-revamp/static/f4fd4770aaee8d07614dbd372238c71e/521a5/josh-silver-730329-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/51a8e/josh-silver-730329-unsplash.webp 340w,
+/static/f4fd4770aaee8d07614dbd372238c71e/713b7/josh-silver-730329-unsplash.webp 680w,
+/static/f4fd4770aaee8d07614dbd372238c71e/54376/josh-silver-730329-unsplash.webp 1360w,
+/static/f4fd4770aaee8d07614dbd372238c71e/521a5/josh-silver-730329-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/f4fd4770aaee8d07614dbd372238c71e/2e524/josh-silver-730329-unsplash.jpg 340w,
-/portfolio-revamp/static/f4fd4770aaee8d07614dbd372238c71e/d330d/josh-silver-730329-unsplash.jpg 680w,
-/portfolio-revamp/static/f4fd4770aaee8d07614dbd372238c71e/6c26c/josh-silver-730329-unsplash.jpg 1360w,
-/portfolio-revamp/static/f4fd4770aaee8d07614dbd372238c71e/cbe2c/josh-silver-730329-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/2e524/josh-silver-730329-unsplash.jpg 340w,
+/static/f4fd4770aaee8d07614dbd372238c71e/d330d/josh-silver-730329-unsplash.jpg 680w,
+/static/f4fd4770aaee8d07614dbd372238c71e/6c26c/josh-silver-730329-unsplash.jpg 1360w,
+/static/f4fd4770aaee8d07614dbd372238c71e/cbe2c/josh-silver-730329-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/f4fd4770aaee8d07614dbd372238c71e/6c26c/josh-silver-730329-unsplash.jpg&quot;
+          src=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/6c26c/josh-silver-730329-unsplash.jpg&quot;
           alt=&quot;Green&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/f4fd4770aaee8d07614dbd372238c71e/6c26c/josh-silver-730329-unsplash.jpg&quot;
+          src=&quot;/static/f4fd4770aaee8d07614dbd372238c71e/6c26c/josh-silver-730329-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1581,7 +1581,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/cfa838b513aa8a3aa2b6c60e089cd075/cbe2c/roman-bozhko-251947-unsplash.jpg&quot;
+    href=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/cbe2c/roman-bozhko-251947-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1597,28 +1597,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/cfa838b513aa8a3aa2b6c60e089cd075/51a8e/roman-bozhko-251947-unsplash.webp 340w,
-/portfolio-revamp/static/cfa838b513aa8a3aa2b6c60e089cd075/713b7/roman-bozhko-251947-unsplash.webp 680w,
-/portfolio-revamp/static/cfa838b513aa8a3aa2b6c60e089cd075/54376/roman-bozhko-251947-unsplash.webp 1360w,
-/portfolio-revamp/static/cfa838b513aa8a3aa2b6c60e089cd075/521a5/roman-bozhko-251947-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/51a8e/roman-bozhko-251947-unsplash.webp 340w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/713b7/roman-bozhko-251947-unsplash.webp 680w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/54376/roman-bozhko-251947-unsplash.webp 1360w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/521a5/roman-bozhko-251947-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/cfa838b513aa8a3aa2b6c60e089cd075/2e524/roman-bozhko-251947-unsplash.jpg 340w,
-/portfolio-revamp/static/cfa838b513aa8a3aa2b6c60e089cd075/d330d/roman-bozhko-251947-unsplash.jpg 680w,
-/portfolio-revamp/static/cfa838b513aa8a3aa2b6c60e089cd075/6c26c/roman-bozhko-251947-unsplash.jpg 1360w,
-/portfolio-revamp/static/cfa838b513aa8a3aa2b6c60e089cd075/cbe2c/roman-bozhko-251947-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/2e524/roman-bozhko-251947-unsplash.jpg 340w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/d330d/roman-bozhko-251947-unsplash.jpg 680w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/6c26c/roman-bozhko-251947-unsplash.jpg 1360w,
+/static/cfa838b513aa8a3aa2b6c60e089cd075/cbe2c/roman-bozhko-251947-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/cfa838b513aa8a3aa2b6c60e089cd075/6c26c/roman-bozhko-251947-unsplash.jpg&quot;
+          src=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/6c26c/roman-bozhko-251947-unsplash.jpg&quot;
           alt=&quot;Green&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/cfa838b513aa8a3aa2b6c60e089cd075/6c26c/roman-bozhko-251947-unsplash.jpg&quot;
+          src=&quot;/static/cfa838b513aa8a3aa2b6c60e089cd075/6c26c/roman-bozhko-251947-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1628,7 +1628,7 @@
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Get fruity]]></title><link>https://ckt22.github.io/portfolio-revamp/get-fruity/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/get-fruity/</guid><pubDate>Thu, 02 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/7cba2b8e617762f18b27ff0f2581601b/cbe2c/mike-dorner-173503-unsplash.jpg&quot;
+    href=&quot;/static/7cba2b8e617762f18b27ff0f2581601b/cbe2c/mike-dorner-173503-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1644,28 +1644,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/7cba2b8e617762f18b27ff0f2581601b/51a8e/mike-dorner-173503-unsplash.webp 340w,
-/portfolio-revamp/static/7cba2b8e617762f18b27ff0f2581601b/713b7/mike-dorner-173503-unsplash.webp 680w,
-/portfolio-revamp/static/7cba2b8e617762f18b27ff0f2581601b/54376/mike-dorner-173503-unsplash.webp 1360w,
-/portfolio-revamp/static/7cba2b8e617762f18b27ff0f2581601b/521a5/mike-dorner-173503-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/7cba2b8e617762f18b27ff0f2581601b/51a8e/mike-dorner-173503-unsplash.webp 340w,
+/static/7cba2b8e617762f18b27ff0f2581601b/713b7/mike-dorner-173503-unsplash.webp 680w,
+/static/7cba2b8e617762f18b27ff0f2581601b/54376/mike-dorner-173503-unsplash.webp 1360w,
+/static/7cba2b8e617762f18b27ff0f2581601b/521a5/mike-dorner-173503-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/7cba2b8e617762f18b27ff0f2581601b/2e524/mike-dorner-173503-unsplash.jpg 340w,
-/portfolio-revamp/static/7cba2b8e617762f18b27ff0f2581601b/d330d/mike-dorner-173503-unsplash.jpg 680w,
-/portfolio-revamp/static/7cba2b8e617762f18b27ff0f2581601b/6c26c/mike-dorner-173503-unsplash.jpg 1360w,
-/portfolio-revamp/static/7cba2b8e617762f18b27ff0f2581601b/cbe2c/mike-dorner-173503-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/7cba2b8e617762f18b27ff0f2581601b/2e524/mike-dorner-173503-unsplash.jpg 340w,
+/static/7cba2b8e617762f18b27ff0f2581601b/d330d/mike-dorner-173503-unsplash.jpg 680w,
+/static/7cba2b8e617762f18b27ff0f2581601b/6c26c/mike-dorner-173503-unsplash.jpg 1360w,
+/static/7cba2b8e617762f18b27ff0f2581601b/cbe2c/mike-dorner-173503-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/7cba2b8e617762f18b27ff0f2581601b/6c26c/mike-dorner-173503-unsplash.jpg&quot;
+          src=&quot;/static/7cba2b8e617762f18b27ff0f2581601b/6c26c/mike-dorner-173503-unsplash.jpg&quot;
           alt=&quot;Fruits&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/7cba2b8e617762f18b27ff0f2581601b/6c26c/mike-dorner-173503-unsplash.jpg&quot;
+          src=&quot;/static/7cba2b8e617762f18b27ff0f2581601b/6c26c/mike-dorner-173503-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1677,7 +1677,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/43d2b2b81944659e9a957960de8c4113/cbe2c/mike-dorner-173504-unsplash.jpg&quot;
+    href=&quot;/static/43d2b2b81944659e9a957960de8c4113/cbe2c/mike-dorner-173504-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1693,28 +1693,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/43d2b2b81944659e9a957960de8c4113/51a8e/mike-dorner-173504-unsplash.webp 340w,
-/portfolio-revamp/static/43d2b2b81944659e9a957960de8c4113/713b7/mike-dorner-173504-unsplash.webp 680w,
-/portfolio-revamp/static/43d2b2b81944659e9a957960de8c4113/54376/mike-dorner-173504-unsplash.webp 1360w,
-/portfolio-revamp/static/43d2b2b81944659e9a957960de8c4113/521a5/mike-dorner-173504-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/43d2b2b81944659e9a957960de8c4113/51a8e/mike-dorner-173504-unsplash.webp 340w,
+/static/43d2b2b81944659e9a957960de8c4113/713b7/mike-dorner-173504-unsplash.webp 680w,
+/static/43d2b2b81944659e9a957960de8c4113/54376/mike-dorner-173504-unsplash.webp 1360w,
+/static/43d2b2b81944659e9a957960de8c4113/521a5/mike-dorner-173504-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/43d2b2b81944659e9a957960de8c4113/2e524/mike-dorner-173504-unsplash.jpg 340w,
-/portfolio-revamp/static/43d2b2b81944659e9a957960de8c4113/d330d/mike-dorner-173504-unsplash.jpg 680w,
-/portfolio-revamp/static/43d2b2b81944659e9a957960de8c4113/6c26c/mike-dorner-173504-unsplash.jpg 1360w,
-/portfolio-revamp/static/43d2b2b81944659e9a957960de8c4113/cbe2c/mike-dorner-173504-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/43d2b2b81944659e9a957960de8c4113/2e524/mike-dorner-173504-unsplash.jpg 340w,
+/static/43d2b2b81944659e9a957960de8c4113/d330d/mike-dorner-173504-unsplash.jpg 680w,
+/static/43d2b2b81944659e9a957960de8c4113/6c26c/mike-dorner-173504-unsplash.jpg 1360w,
+/static/43d2b2b81944659e9a957960de8c4113/cbe2c/mike-dorner-173504-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/43d2b2b81944659e9a957960de8c4113/6c26c/mike-dorner-173504-unsplash.jpg&quot;
+          src=&quot;/static/43d2b2b81944659e9a957960de8c4113/6c26c/mike-dorner-173504-unsplash.jpg&quot;
           alt=&quot;Fruits&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/43d2b2b81944659e9a957960de8c4113/6c26c/mike-dorner-173504-unsplash.jpg&quot;
+          src=&quot;/static/43d2b2b81944659e9a957960de8c4113/6c26c/mike-dorner-173504-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1725,7 +1725,7 @@
 &lt;/div&gt;</content:encoded></item><item><title><![CDATA[The fur series]]></title><link>https://ckt22.github.io/portfolio-revamp/fur/</link><guid isPermaLink="false">https://ckt22.github.io/portfolio-revamp/fur/</guid><pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/a1ebbea943f183782485fb7212e283bb/cbe2c/charles-deluvio-540415-unsplash.jpg&quot;
+    href=&quot;/static/a1ebbea943f183782485fb7212e283bb/cbe2c/charles-deluvio-540415-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1741,28 +1741,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/a1ebbea943f183782485fb7212e283bb/51a8e/charles-deluvio-540415-unsplash.webp 340w,
-/portfolio-revamp/static/a1ebbea943f183782485fb7212e283bb/713b7/charles-deluvio-540415-unsplash.webp 680w,
-/portfolio-revamp/static/a1ebbea943f183782485fb7212e283bb/54376/charles-deluvio-540415-unsplash.webp 1360w,
-/portfolio-revamp/static/a1ebbea943f183782485fb7212e283bb/521a5/charles-deluvio-540415-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/a1ebbea943f183782485fb7212e283bb/51a8e/charles-deluvio-540415-unsplash.webp 340w,
+/static/a1ebbea943f183782485fb7212e283bb/713b7/charles-deluvio-540415-unsplash.webp 680w,
+/static/a1ebbea943f183782485fb7212e283bb/54376/charles-deluvio-540415-unsplash.webp 1360w,
+/static/a1ebbea943f183782485fb7212e283bb/521a5/charles-deluvio-540415-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/a1ebbea943f183782485fb7212e283bb/2e524/charles-deluvio-540415-unsplash.jpg 340w,
-/portfolio-revamp/static/a1ebbea943f183782485fb7212e283bb/d330d/charles-deluvio-540415-unsplash.jpg 680w,
-/portfolio-revamp/static/a1ebbea943f183782485fb7212e283bb/6c26c/charles-deluvio-540415-unsplash.jpg 1360w,
-/portfolio-revamp/static/a1ebbea943f183782485fb7212e283bb/cbe2c/charles-deluvio-540415-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/a1ebbea943f183782485fb7212e283bb/2e524/charles-deluvio-540415-unsplash.jpg 340w,
+/static/a1ebbea943f183782485fb7212e283bb/d330d/charles-deluvio-540415-unsplash.jpg 680w,
+/static/a1ebbea943f183782485fb7212e283bb/6c26c/charles-deluvio-540415-unsplash.jpg 1360w,
+/static/a1ebbea943f183782485fb7212e283bb/cbe2c/charles-deluvio-540415-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/a1ebbea943f183782485fb7212e283bb/6c26c/charles-deluvio-540415-unsplash.jpg&quot;
+          src=&quot;/static/a1ebbea943f183782485fb7212e283bb/6c26c/charles-deluvio-540415-unsplash.jpg&quot;
           alt=&quot;Cute dog&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/a1ebbea943f183782485fb7212e283bb/6c26c/charles-deluvio-540415-unsplash.jpg&quot;
+          src=&quot;/static/a1ebbea943f183782485fb7212e283bb/6c26c/charles-deluvio-540415-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1773,7 +1773,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/c77583abe98a443b5f30befea3f88d09/cbe2c/charles-deluvio-540418-unsplash.jpg&quot;
+    href=&quot;/static/c77583abe98a443b5f30befea3f88d09/cbe2c/charles-deluvio-540418-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1789,28 +1789,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/c77583abe98a443b5f30befea3f88d09/51a8e/charles-deluvio-540418-unsplash.webp 340w,
-/portfolio-revamp/static/c77583abe98a443b5f30befea3f88d09/713b7/charles-deluvio-540418-unsplash.webp 680w,
-/portfolio-revamp/static/c77583abe98a443b5f30befea3f88d09/54376/charles-deluvio-540418-unsplash.webp 1360w,
-/portfolio-revamp/static/c77583abe98a443b5f30befea3f88d09/521a5/charles-deluvio-540418-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/c77583abe98a443b5f30befea3f88d09/51a8e/charles-deluvio-540418-unsplash.webp 340w,
+/static/c77583abe98a443b5f30befea3f88d09/713b7/charles-deluvio-540418-unsplash.webp 680w,
+/static/c77583abe98a443b5f30befea3f88d09/54376/charles-deluvio-540418-unsplash.webp 1360w,
+/static/c77583abe98a443b5f30befea3f88d09/521a5/charles-deluvio-540418-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/c77583abe98a443b5f30befea3f88d09/2e524/charles-deluvio-540418-unsplash.jpg 340w,
-/portfolio-revamp/static/c77583abe98a443b5f30befea3f88d09/d330d/charles-deluvio-540418-unsplash.jpg 680w,
-/portfolio-revamp/static/c77583abe98a443b5f30befea3f88d09/6c26c/charles-deluvio-540418-unsplash.jpg 1360w,
-/portfolio-revamp/static/c77583abe98a443b5f30befea3f88d09/cbe2c/charles-deluvio-540418-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/c77583abe98a443b5f30befea3f88d09/2e524/charles-deluvio-540418-unsplash.jpg 340w,
+/static/c77583abe98a443b5f30befea3f88d09/d330d/charles-deluvio-540418-unsplash.jpg 680w,
+/static/c77583abe98a443b5f30befea3f88d09/6c26c/charles-deluvio-540418-unsplash.jpg 1360w,
+/static/c77583abe98a443b5f30befea3f88d09/cbe2c/charles-deluvio-540418-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/c77583abe98a443b5f30befea3f88d09/6c26c/charles-deluvio-540418-unsplash.jpg&quot;
+          src=&quot;/static/c77583abe98a443b5f30befea3f88d09/6c26c/charles-deluvio-540418-unsplash.jpg&quot;
           alt=&quot;Cute dog&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/c77583abe98a443b5f30befea3f88d09/6c26c/charles-deluvio-540418-unsplash.jpg&quot;
+          src=&quot;/static/c77583abe98a443b5f30befea3f88d09/6c26c/charles-deluvio-540418-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1821,7 +1821,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/6dfa10d882f38682b5fef697d9eae25a/cbe2c/charles-deluvio-540420-unsplash.jpg&quot;
+    href=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/cbe2c/charles-deluvio-540420-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1837,28 +1837,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/6dfa10d882f38682b5fef697d9eae25a/51a8e/charles-deluvio-540420-unsplash.webp 340w,
-/portfolio-revamp/static/6dfa10d882f38682b5fef697d9eae25a/713b7/charles-deluvio-540420-unsplash.webp 680w,
-/portfolio-revamp/static/6dfa10d882f38682b5fef697d9eae25a/54376/charles-deluvio-540420-unsplash.webp 1360w,
-/portfolio-revamp/static/6dfa10d882f38682b5fef697d9eae25a/521a5/charles-deluvio-540420-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/51a8e/charles-deluvio-540420-unsplash.webp 340w,
+/static/6dfa10d882f38682b5fef697d9eae25a/713b7/charles-deluvio-540420-unsplash.webp 680w,
+/static/6dfa10d882f38682b5fef697d9eae25a/54376/charles-deluvio-540420-unsplash.webp 1360w,
+/static/6dfa10d882f38682b5fef697d9eae25a/521a5/charles-deluvio-540420-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/6dfa10d882f38682b5fef697d9eae25a/2e524/charles-deluvio-540420-unsplash.jpg 340w,
-/portfolio-revamp/static/6dfa10d882f38682b5fef697d9eae25a/d330d/charles-deluvio-540420-unsplash.jpg 680w,
-/portfolio-revamp/static/6dfa10d882f38682b5fef697d9eae25a/6c26c/charles-deluvio-540420-unsplash.jpg 1360w,
-/portfolio-revamp/static/6dfa10d882f38682b5fef697d9eae25a/cbe2c/charles-deluvio-540420-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/2e524/charles-deluvio-540420-unsplash.jpg 340w,
+/static/6dfa10d882f38682b5fef697d9eae25a/d330d/charles-deluvio-540420-unsplash.jpg 680w,
+/static/6dfa10d882f38682b5fef697d9eae25a/6c26c/charles-deluvio-540420-unsplash.jpg 1360w,
+/static/6dfa10d882f38682b5fef697d9eae25a/cbe2c/charles-deluvio-540420-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/6dfa10d882f38682b5fef697d9eae25a/6c26c/charles-deluvio-540420-unsplash.jpg&quot;
+          src=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/6c26c/charles-deluvio-540420-unsplash.jpg&quot;
           alt=&quot;Cute dog&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/6dfa10d882f38682b5fef697d9eae25a/6c26c/charles-deluvio-540420-unsplash.jpg&quot;
+          src=&quot;/static/6dfa10d882f38682b5fef697d9eae25a/6c26c/charles-deluvio-540420-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -1869,7 +1869,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/53e7f5e9d56afcb6a409a643dfdcbf99/cbe2c/charles-deluvio-547196-unsplash.jpg&quot;
+    href=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/cbe2c/charles-deluvio-547196-unsplash.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -1885,28 +1885,28 @@
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/53e7f5e9d56afcb6a409a643dfdcbf99/51a8e/charles-deluvio-547196-unsplash.webp 340w,
-/portfolio-revamp/static/53e7f5e9d56afcb6a409a643dfdcbf99/713b7/charles-deluvio-547196-unsplash.webp 680w,
-/portfolio-revamp/static/53e7f5e9d56afcb6a409a643dfdcbf99/54376/charles-deluvio-547196-unsplash.webp 1360w,
-/portfolio-revamp/static/53e7f5e9d56afcb6a409a643dfdcbf99/521a5/charles-deluvio-547196-unsplash.webp 2000w&quot;
+          srcset=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/51a8e/charles-deluvio-547196-unsplash.webp 340w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/713b7/charles-deluvio-547196-unsplash.webp 680w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/54376/charles-deluvio-547196-unsplash.webp 1360w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/521a5/charles-deluvio-547196-unsplash.webp 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/53e7f5e9d56afcb6a409a643dfdcbf99/2e524/charles-deluvio-547196-unsplash.jpg 340w,
-/portfolio-revamp/static/53e7f5e9d56afcb6a409a643dfdcbf99/d330d/charles-deluvio-547196-unsplash.jpg 680w,
-/portfolio-revamp/static/53e7f5e9d56afcb6a409a643dfdcbf99/6c26c/charles-deluvio-547196-unsplash.jpg 1360w,
-/portfolio-revamp/static/53e7f5e9d56afcb6a409a643dfdcbf99/cbe2c/charles-deluvio-547196-unsplash.jpg 2000w&quot;
+          srcset=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/2e524/charles-deluvio-547196-unsplash.jpg 340w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/d330d/charles-deluvio-547196-unsplash.jpg 680w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/6c26c/charles-deluvio-547196-unsplash.jpg 1360w,
+/static/53e7f5e9d56afcb6a409a643dfdcbf99/cbe2c/charles-deluvio-547196-unsplash.jpg 2000w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/53e7f5e9d56afcb6a409a643dfdcbf99/6c26c/charles-deluvio-547196-unsplash.jpg&quot;
+          src=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/6c26c/charles-deluvio-547196-unsplash.jpg&quot;
           alt=&quot;Cute dog&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/53e7f5e9d56afcb6a409a643dfdcbf99/6c26c/charles-deluvio-547196-unsplash.jpg&quot;
+          src=&quot;/static/53e7f5e9d56afcb6a409a643dfdcbf99/6c26c/charles-deluvio-547196-unsplash.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
@@ -2028,7 +2028,7 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/77bd5/salty_egg.jpg&quot;
+    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/77bd5/salty_egg.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -2044,30 +2044,30 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
     &gt;
       &lt;picture&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/51a8e/salty_egg.webp 340w,
-/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/713b7/salty_egg.webp 680w,
-/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/54376/salty_egg.webp 1360w,
-/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/0be89/salty_egg.webp 2040w,
-/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/5eb26/salty_egg.webp 2048w&quot;
+          srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/51a8e/salty_egg.webp 340w,
+/static/8058f3f26913fea3b6a89a73344fe94a/713b7/salty_egg.webp 680w,
+/static/8058f3f26913fea3b6a89a73344fe94a/54376/salty_egg.webp 1360w,
+/static/8058f3f26913fea3b6a89a73344fe94a/0be89/salty_egg.webp 2040w,
+/static/8058f3f26913fea3b6a89a73344fe94a/5eb26/salty_egg.webp 2048w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/2e524/salty_egg.jpg 340w,
-/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/d330d/salty_egg.jpg 680w,
-/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/6c26c/salty_egg.jpg 1360w,
-/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/afd2d/salty_egg.jpg 2040w,
-/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/77bd5/salty_egg.jpg 2048w&quot;
+          srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/2e524/salty_egg.jpg 340w,
+/static/8058f3f26913fea3b6a89a73344fe94a/d330d/salty_egg.jpg 680w,
+/static/8058f3f26913fea3b6a89a73344fe94a/6c26c/salty_egg.jpg 1360w,
+/static/8058f3f26913fea3b6a89a73344fe94a/afd2d/salty_egg.jpg 2040w,
+/static/8058f3f26913fea3b6a89a73344fe94a/77bd5/salty_egg.jpg 2048w&quot;
           sizes=&quot;(max-width: 1360px) 100vw, 1360px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-          src=&quot;/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/6c26c/salty_egg.jpg&quot;
+          src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/6c26c/salty_egg.jpg&quot;
           alt=&quot;Chinese Salty Egg&quot;
           title=&quot;&quot;
-          src=&quot;/portfolio-revamp/static/8058f3f26913fea3b6a89a73344fe94a/6c26c/salty_egg.jpg&quot;
+          src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/6c26c/salty_egg.jpg&quot;
         /&gt;
       &lt;/picture&gt;
       &lt;/span&gt;
