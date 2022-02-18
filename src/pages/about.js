@@ -13,7 +13,7 @@ const AboutPage = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="ABout" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO title="About" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
@@ -57,7 +57,7 @@ const AboutPage = ({ data }, location) => {
           <a 
             target="_blank"
             rel="noopener noreferrer"
-            href={'/resume.pdf'}
+            href={'resume.pdf'}
           >
           <button>My CV (Jan 2022)</button>
           </a>
