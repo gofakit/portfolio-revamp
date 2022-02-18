@@ -57,7 +57,7 @@ const AboutPage = ({ data }, location) => {
           <a 
             target="_blank"
             rel="noopener noreferrer"
-            href={'resume.pdf'}
+            href={'/portfolio-revamp/resume.pdf'}
           >
           <button>My CV (Jan 2022)</button>
           </a>
