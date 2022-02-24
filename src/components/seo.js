@@ -84,7 +84,7 @@ function SEO({ description, lang, meta, keywords, title }) {
 SEO.defaultProps = {
   lang: `en`,
   meta: [],
-  keywords: [],
+  keywords: ['developer', 'blockchain', 'web3'],
   description: ``,
 }
 
