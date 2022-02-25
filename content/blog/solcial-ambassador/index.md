@@ -1,31 +1,28 @@
 ---
-title: Soiclal
-date: "2022-01-01"
-thumbnail: ./sampson-logo.png
-hideThumbnail: true
+title: Community Scout - Soiclal
+date: "2022-02-01"
+thumbnail: ./solcial-logo.png
 active: true
-description: ""
-description2: "#blockchain #sofi"
+description: "Solcial is a decentralized social network built on Solana for all to post their uncensored content. Main goals of the platform: celebrate freedom of speech, restrict content manipulation, and fair rewards to content creators. I am proud to be selected as one of the Solcial Scouts, where I am responsible for interacting with the community as well as to promote the app to our connections."
+description2: "#blockchain #sofi #solana"
 ---
 
 <div class="kg-card kg-image-card kg-width-wide">
 
-<a href="https://www.sampsonstore.com/neovision/condom/home/index.is?locale=enus" target="_blank"><button>View Solcial's official site</button></a>
+<a href="https://solcial.io/" target="_blank"><button>View Solcial's official site</button></a>
 
-<p>Well....Every industry needs programmers! This has been one of the most enjoable part time experience I have ever had back in 2021. Not only did I gained more insights on the sexual well-being retail market, but I also got the chance to refine my Python backend skills, as well as my MySQL knowledge.</p>
+<p>I regard myself as a blockchain, crypto and web3 enthusiast, while I am also a strong advocate of free speech and decentralization. Solcial catches my attention with their content hosting methodology with a P2P network to make sure the content is not manipulated, as well as the tokenomics that grants content creator their personal token used for subscription to premium content. Backed by large corporates like Alameda Research and Solana Ventures, along with the very attractive tokenomics, I am looking forward to the launch of this SoFi project.</p>
 
 <h2>Content Management</h2>
 
-<p>SampsonStore is also an exculsive distributor of various condom brands, including Sagami and MyOne Condoms. They have even set up their Shopify page exclusively for MyOne Condoms. During my 4-month part time, I implemented a connecotr in Python to synchronize the internal stock data with that displayed on Shopify Page.</p>
+<p>As Solcial would like to gain traction across the globe, we would definitely need multilanguage blogs introducing the vision and mission of the platform. Coming from Hong Kong, I helped with translating and proofreading content to Chinese.</p>
 
-<a href="https://www.myonecondoms.com/" target="_blank"><button>Check out their Shopify page! (Warning: NSFW)</button></a>
+<a href="https://blog.solcial.io/" target="_blank"><button>View blogs by Solcial</button></a>
 
-![Sampson Store](./shopify-api.jpeg)
+<h2>Community Engagement</h2>
 
-<h2>Project development</h2>
+<p>Just like any other web3 project, it is crucial to maintain an active and freidnly community. I am proud to be one of the Solcial scouts, responsible for answering questions raised by other members in Discord. I am also actively participating in discussions among the team to provide feedback on project development.</p>
 
-<p>SampsonStore is also establishing its sales channel across multiple E-Commerce platforms, one of them being Shopee, which is a popular E-Commerce platform in Asia. I have also implemented a connecotr in Python to synchronize the internal stock data with that displayed on Shopee.</p>
-
-![Sampson Store](./shopee-open-api.png)
+<a href="https://twitter.com/solcialofficial" target="_blank"><button>Follow Solcial on Twitter</button></a>
 
 </div>
