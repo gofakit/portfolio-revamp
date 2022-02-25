@@ -7,259 +7,256 @@
   Referrer-Policy: same-origin
 /component---node-modules-gatsby-plugin-offline-app-shell-js-36dc033f967ae9fe9cda.js
   Cache-Control: public, max-age=31536000, immutable
-/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js
+/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js
   Cache-Control: public, max-age=31536000, immutable
-/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js
+/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js
+/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-404-js-b410945d5e980a3bf2b7.js
   Cache-Control: public, max-age=31536000, immutable
-/styles.15527154dcd204931442.css
+/styles.dde0e77844c6676021a5.css
   Cache-Control: public, max-age=31536000, immutable
 /styles-e9d24b1846c7d6eb9685.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-pages-about-js-0862b08f1601e23c9e5f.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-elements-js-28f48c5c4da25a2bd96a.js
+/component---src-pages-index-js-abf60685d4846f0d3e00.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-index-js-ec3587c9d7d59282399a.js
+/webpack-runtime-f6a04f736d9e46234165.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-37c3297698f3dd0ac440.js
+/framework-445649399d1c721f1f74.js
   Cache-Control: public, max-age=31536000, immutable
-/framework-58f863d6aa18c11a521f.js
-  Cache-Control: public, max-age=31536000, immutable
-/app-7bfe437aa1a87e838b50.js
+/app-c7b953e0c8d0e6e62261.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
 /portfolio-revamp/offline-plugin-app-shell-fallback/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
   Link: </portfolio-revamp/component---node-modules-gatsby-plugin-offline-app-shell-js-36dc033f967ae9fe9cda.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio-revamp/accenture/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+/portfolio-revamp/solcial-ambassador/
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio-revamp/page-data/solcial-ambassador/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio-revamp/accenture/
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
+  Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/accenture/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/sampson/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/sampson/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/coach-ai/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/coach-ai/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/react-native/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/react-native/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/reubird/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/reubird/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/mysilkway/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/mysilkway/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/darkness/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/darkness/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/dont-stop/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/dont-stop/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/its-all-blue/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/its-all-blue/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/clean-lines/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/clean-lines/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/all-spikes/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/all-spikes/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/green/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/green/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/get-fruity/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/get-fruity/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/fur/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/fur/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/hi-folks/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/hi-folks/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/my-second-post/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/my-second-post/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/hello-world/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-templates-blog-post-js-093e143f5366e5a4cd19.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-templates-blog-post-js-92200e4e7a6cb5d6eac8.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/hello-world/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/404/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
   Link: </portfolio-revamp/component---src-pages-404-js-b410945d5e980a3bf2b7.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/about/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/e5f5b259f3bc5bd31060582de6626886320e23cc-2350ed2d501501cbf7b8.js>; rel=preload; as=script
   Link: </portfolio-revamp/component---src-pages-about-js-0862b08f1601e23c9e5f.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/about/page-data.json>; rel=preload; as=fetch; crossorigin
-/portfolio-revamp/elements/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
-  Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/0fc6c86f12196c444ea54c4c1c249e097ff3f091-2350ed2d501501cbf7b8.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-pages-elements-js-28f48c5c4da25a2bd96a.js>; rel=preload; as=script
-  Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </portfolio-revamp/page-data/elements/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
-  Link: </portfolio-revamp/component---src-pages-index-js-ec3587c9d7d59282399a.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
+  Link: </portfolio-revamp/component---src-pages-index-js-abf60685d4846f0d3e00.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
 /portfolio-revamp/404.html
-  Link: </portfolio-revamp/webpack-runtime-37c3297698f3dd0ac440.js>; rel=preload; as=script
+  Link: </portfolio-revamp/webpack-runtime-f6a04f736d9e46234165.js>; rel=preload; as=script
   Link: </portfolio-revamp/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
-  Link: </portfolio-revamp/framework-58f863d6aa18c11a521f.js>; rel=preload; as=script
-  Link: </portfolio-revamp/app-7bfe437aa1a87e838b50.js>; rel=preload; as=script
-  Link: </portfolio-revamp/cff55d511386ec74739def37b0fb34db60ca3c53-b94928754109ea763812.js>; rel=preload; as=script
+  Link: </portfolio-revamp/framework-445649399d1c721f1f74.js>; rel=preload; as=script
+  Link: </portfolio-revamp/app-c7b953e0c8d0e6e62261.js>; rel=preload; as=script
+  Link: </portfolio-revamp/133dca110fad53aa1997b630637bbac3134a2d14-c96b79419a6daff33cb3.js>; rel=preload; as=script
   Link: </portfolio-revamp/component---src-pages-404-js-b410945d5e980a3bf2b7.js>; rel=preload; as=script
   Link: </portfolio-revamp/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </portfolio-revamp/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin

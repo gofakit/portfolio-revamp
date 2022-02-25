@@ -64,7 +64,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "predeploy": "gatsby build --prefix-paths",
+    "predeploy": "gatsby clean && gatsby build --prefix-paths",
     "deploy": "gh-pages -d public",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
