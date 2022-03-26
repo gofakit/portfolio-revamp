@@ -2,7 +2,6 @@
 title: Community Scout - Soiclal
 date: "2022-02-01"
 thumbnail: ./solcial-logo.png
-active: true
 description: "Solcial is a decentralized social network built on Solana for all to post their uncensored content. Main goals of the platform: celebrate freedom of speech, restrict content manipulation, and fair rewards to content creators. I am proud to be selected as one of the Solcial Scouts, where I am responsible for interacting with the community as well as to promote the app to our connections."
 description2: "#blockchain #sofi #solana"
 ---
