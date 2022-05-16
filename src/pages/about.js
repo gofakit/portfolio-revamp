@@ -59,7 +59,7 @@ const AboutPage = ({ data }, location) => {
             rel="noopener noreferrer"
             href={'/portfolio-revamp/resume.pdf'}
           >
-          <button>My CV (Jan 2022)</button>
+          <button>My CV (May 2022)</button>
           </a>
         </div>
       </article>
